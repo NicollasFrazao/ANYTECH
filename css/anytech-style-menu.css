@@ -1,0 +1,589 @@
+.anytech-bar
+{
+	display: inline-block;
+	width: 100%;
+	height: 70px;
+	background-color: #ddd;
+	position: fixed;
+	z-index: 9999;
+	transition: background 1s;
+}
+
+#anytech_logo_image
+{
+	display: inline-block;
+	height: 40px;
+	margin: 15px;
+	margin-left: 25px;
+	width: auto;
+}
+
+.anytech-user-profile
+{
+	display: inline-block;
+	margin-top:15px;
+	background-color: transparent;
+	float: right;
+	margin-right: 20px;
+	margin-top:20px;
+}
+
+.anytech-user-image
+{
+	display: inline-block;
+	width: 30px;
+	height: 30px;
+	border-radius: 50%;
+	border-bottom-right-radius: 0px;
+	box-shadow: 0 2px 3px rgba(0,0,0,0.3);
+	clip: rect (0px, 30px, 30px, 0px);
+}
+
+.anytech-username
+{
+	display: inline-block;
+	font-size: 0.8em;
+	color: white;
+	margin-left:15px;
+	margin-right:10px;
+}
+
+.anytech-menu-body
+{
+	display: none;
+	width: 50%;
+	height: 100%;
+	margin-top:70px;
+	background-color: #333;
+	position: fixed;
+	z-index: 9998;
+	right: 0px;
+	transition: background 1s;
+}
+
+.anytech-menu-search
+{
+	display: inline-block;
+	width: 95%;
+	margin-left: 2.5%;
+	margin-top: 15px;
+	height: 40px;
+	background-color: rgba(255,255,255,0.1);
+	bottom: 0px;
+	float: none;
+	box-shadow: 0 3px 2px rgba(0,0,0,0.3);
+}
+
+.anytech-menu-search-input
+{
+	display: inline-block;
+	height: 100%;
+	width: 100%;
+	padding: 12px;
+	background-color: transparent;
+	color: white;
+}
+
+.anytech-menu-search-button
+{
+	display: inline-block;
+	height: 30px;
+	background-color: transparent;
+}
+
+.anytech-menu-option
+{
+	display: inline-block;
+	width: 13%;
+	height: auto;
+	margin-left: 5.5%;
+	margin-top: 2%;
+	
+}
+
+
+.anytech-menu-option-image
+{
+	display: inline-block;
+	width: 50%;
+	padding: 10%;
+	border-radius: 50%;	
+	border-bottom-right-radius: 0px;
+}
+
+
+.anytech-menu-option:hover .anytech-menu-option-image
+{
+	background-color: rgba(255,255,255,0.1);
+	box-shadow: 0 3px 2px rgba(0,0,0,0.3);
+}
+
+#anytech-menu-option-image-products
+{
+	display: inline-block;
+	width: 70%;
+	padding: 0%;
+	border-radius: 50%;	
+	border-bottom-right-radius: 0px;
+}
+
+.anytech-menu-option-label
+{
+	display: inline-block;
+	width: 100%;
+	padding-top:10px;
+	padding-bottom:10px;
+	font-size: 0.5em;
+	color: white;
+}
+
+
+.anytech-submenu
+{
+	display: none;
+	width: 100%;
+	height: auto;
+}
+
+#anytech_main_menu
+{
+	display: inline-block;
+}
+
+.anytech-menu-option-list
+{
+	display: inline-block;
+	width: 95%;
+	height: auto;
+	text-align: left;
+	margin-left: 2.5%;
+}
+
+
+.anytech-menu-option-image-list
+{
+	display: inline-block;
+	width: 20px;
+	padding: 5px;
+	border-radius: 50%;
+}
+
+
+.anytech-menu-option-list:hover 
+{
+	background-color: rgba(0,0,0,0.3);
+}
+
+.anytech-menu-option-list:hover .anytech-menu-option-image-list
+{
+	background-color: transparent;
+	box-shadow: 0 3px 2px rgba(0,0,0,0.0);
+}
+
+.anytech-menu-option-label-list
+{
+	display: inline-block;
+	width: auto;
+	margin-left: 10px;
+	padding-top:8px;
+	padding-bottom:10px;
+	font-size: 0.8em;
+	color: white;
+}
+
+.anytech-menu-option-label-list-history
+{
+	display: inline-block;
+	width: 100%;
+	margin-top: 10px;
+	padding-bottom: 2.5px;
+	margin-left: 20px;
+	font-size: 0.7em;
+	color: white;
+}
+
+.anytech-link
+{
+	display: inline;
+	font-weight: bold;
+	color: white;
+}	
+
+.anytech-menu-option-title
+{
+	display: inline-block;
+	height: 100%;
+	width: 100%;
+	padding: 12px;
+	background-color: transparent;
+	color: white;
+	font-size: 0.8em;	
+}
+
+.anytech-input-login
+{
+	display: inline-block;
+	width: 70%;
+	padding: 2.5%;
+	margin-left: 2.5%;
+	margin-top:10px;
+	margin-bottom:10px;
+	color: #777;
+	background-color: #fff;
+}
+
+.anytech-input-data
+{
+	display: inline-block;
+	width: 90%;
+	padding: 2.5%;
+	margin-left: 2.5%;
+	margin-bottom:10px;
+}
+
+.anytech-input-data-table
+{
+	display: inline-block;
+	width: 90%;
+	height: 30px;
+	padding: 2.5%;
+	margin-left: 2.5%;
+	margin-bottom:10px;
+}
+
+.anytech-input-data-select
+{
+	display: inline-block;
+	width: 95%;
+	padding: 2.5%;
+	margin-left: 2.5%;
+	margin-bottom:10px;
+}
+
+#passworddiv
+{
+	margin-top: 30px;
+}
+
+.anytech-label
+{
+	display: inline-block;
+	width: 95%;
+	margin-left: 2.5%;
+	color: #eee;
+	margin-top:10px;
+	font-size: 0.9em;	
+}
+
+.anytech-label-data
+{
+	display: inline-block;
+	width: 95%;
+	margin-left: 2.5%;
+	color: #fff;
+	margin-top:10px;
+	font-size: 0.9em;	
+}
+
+.form-buttons-group
+{
+	display: inline-block;
+	width: 90%;
+	height: 100px;
+	float: right;
+	position: absolute;
+	margin-left: 5%;
+	bottom: 30px;
+}
+
+#button-colors-cont
+{
+	right: 30px;
+}
+
+.anytech-form-button
+{
+	display: inline-block;
+	width: 100px;
+	padding: 10px;
+	background-color: rgba(255,255,255,0.1);
+	color: white;
+	box-shadow: 0 1px 2px rgba(0,0,0,0.3);
+	
+}
+
+#anytech_menu_back_button
+{
+	background-color: transparent;
+	box-shadow: 0 1px 2px rgba(0,0,0,0);
+}
+
+#anytech_config_color
+{
+	display: none;
+	width: 90%;
+	padding: 5%;
+}
+
+.anytech-colors
+{
+	display: inline-block;
+	width: 80%;
+	margin-left: 2.5%;
+	margin-top:10px;
+}
+
+.anytech-color-button
+{
+	display: inline-block;
+	width: 20px;
+	height: 20px;
+	color: transparent;
+	font-size: 0em;
+	box-shadow: 0 1px 2px rgba(0,0,0,0.3);
+}
+
+.into-menu
+{
+	display: inline-block;
+	width: 100%;
+	height: 450px;
+	overflow-y: auto;
+	margin-bottom: 20px;
+}
+
+.into-menu-two
+{
+	display: inline-block;
+	width: 97%;
+	height: 500px;
+	overflow-y: auto;
+	margin-bottom: 20px;
+}
+
+.into-menu-three
+{
+	display: inline-block;
+	width: 96%;
+	margin-left: 1%;
+	height: 450px;
+	overflow-y: auto;
+	margin-bottom: 20px;
+}
+
+.interest-buttons-selected
+{
+	display: inline-block;
+	width: 94%;
+	margin-left: 3%;
+	margin-right: 3%;
+	margin-top: 10px;
+	padding: 2%;
+	text-align: left;
+	background-color: rgba(255,255,255,0.2);
+	color: #fff;
+	box-shadow: 0 1px 2px rgba(0,0,0,0.3);
+}
+
+.interest-buttons-selected:hover
+{
+	
+	background-color: rgba(255,255,255,0.1);
+}
+
+.interest-buttons:hover
+{
+	background-color: rgba(255,255,255,0.1);
+}
+
+.interest-buttons
+{
+	display: inline-block;
+	width: 94%;
+	margin-left: 3%;
+	margin-right: 3%;
+	margin-top: 10px;
+	padding: 2%;
+	text-align: left;
+	background-color: rgba(0,0,0,0.3);
+	color: #eee;
+	box-shadow: 0 1px 2px rgba(0,0,0,0.3);
+}
+
+.check-item-favorites
+{
+	display: inline-block;
+}
+
+#delete-fav
+{
+	float: left;
+	background-color: #cc6b6b;
+}
+
+#delete-read
+{
+	float: left;
+	background-color: #cc6b6b;
+}
+
+.anytech-menu-profile-image
+{
+	display: inline-block;
+	width: 30%;
+	border-radius: 50%;
+	border-bottom-right-radius: 0px;
+	margin-top:30px;
+	
+	box-shadow: 0 2px 3px rgba(0,0,0,0.3);
+}
+
+.anytech-profile-username
+{
+	display: inline-block;
+	width: 100%;
+	margin-top:20px;
+	color: white;
+	font-weight: bold;
+	font-size: 1.5em;
+}
+
+.anytech-followings
+{
+	display: inline-block;
+	width: 90%;
+	padding:5%;
+}
+
+.anytech-followings:hover
+{
+	background-color: rgba(255,255,255,0.1);
+}
+
+.anytech-followers
+{
+	display: inline-block;
+	width: 90%;
+	padding:5%;
+}
+
+.anytech-followers:hover
+{
+	background-color: rgba(0,0,0,0.2)
+}
+
+.followers-count, .followings-count
+{
+	display: inline-block;
+	width: 100%;
+	color: #fff;
+	font-size: 2em;
+	font-weight: bold;
+}
+
+.followers-legend, .followings-legend
+{
+	display: inline-block;
+	width: 100%;
+	color: #fff;
+	font-size: 0.7em;
+}
+
+.anytech-profile-location
+{
+	display: inline-block;
+	width: 100%;
+	margin-bottom:20px;	
+	color: white;
+	font-size: 0.7em;
+}
+
+.anytech-profile-profile-full
+{
+	display: inline-block;
+	width: 100%;
+	margin-top:20px;	
+	margin-bottom:20px;	
+	bottom: 10px;
+	color: white;
+	font-size: 0.7em;
+}
+
+
+.anytech-info-desc
+{
+	display: inline-block;
+	width: 80%;
+	margin-top:20px;	
+	margin-bottom:20px;	
+	bottom: 10px;
+	color: white;
+	font-size: 0.7em;
+}
+
+#menu_profile_image_cover
+{
+	display: none;
+	position: absolute;
+	width: 30%;
+	border-radius: 50%;
+	border-bottom-right-radius: 0px;
+	margin-top:30px;
+	background-color: rgba(0,0,0,0.3);
+}
+
+a:link
+{
+	text-decoration: none;
+}
+
+a:hover
+{
+	color: black;
+}
+
+
+
+
+.legend-notify
+{
+	display: inline-block;
+	height: 100%;
+	width: 250px;
+	color: #fff;
+	font-size: 1em;
+	position: static;
+	background-color: transparent;
+}
+
+#anytech_cover_notify
+{
+	display: none;
+	width: 500px;
+	height: 400px;
+	background-color: white;	
+	left: 50%;
+	margin-left: -250px;
+	margin-top: 10%;
+	box-shadow: 0 1px 2px rgba(0,0,0,0.3);
+	display: none;
+	width: auto;
+	left: 50%;
+	margin-left: -125px;
+	margin-top: 20%;
+	height: auto;
+	padding:20px;
+	background-color: #0145ff;
+	font-weight: bold;
+	position: fixed;
+	z-index: 9998;
+	box-shadow: 0px 1px 2px rgba(0,0,0,0.3);
+}
+
+@media screen and (max-width: 900px)
+{	
+	.anytech-bar
+	{
+		z-index: 9998;
+	}
+}

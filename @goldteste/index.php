@@ -1,0 +1,1 @@
+<?php include '../profile/index.php'; ?> <?php $conexaoPrincipal -> FecharConexao(); ?>

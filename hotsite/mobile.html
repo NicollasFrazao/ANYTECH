@@ -1,0 +1,238 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title>EletronTech</title>
+		<meta name="viewport" content="width=device-width, user-scalable=no">
+		<link rel="stylesheet" type="text/css" href="css/et-style-mobile.css">
+	</head>
+	<body>
+		<div class="et-top" id="hTopBar" valign="center">
+			<div class="et-coveringtop" id="hTopBarCover"></div>
+			<img class="et-img-logo" id="hImgLogo" src="images/anytech-logo.png">	
+			<img class="et-img-bars" id="hImgBars" src="images/anytech-barras.png" onclick="menuControl()">	
+		</div>
+		<div class="et-bottom" id="et_main">
+			<div class="et-bottom-logo" id="hBottomLogo">
+				<img class="et-eletrontech-logo" src="images/eletrontech-anytech-logo.png">	
+			</div>
+			
+			<div class="et-bottom-text" id="hBottomText">
+				<h1 class="et-app-name">ELETRONTECH</h1>
+				<span class="et-app-text">Cálculos de elétrica, geometria, física e muito mais na palma da sua mão!</span>
+			</div>
+			
+			<div class="et-bottom-download" id="hBottomDownload">
+				<button class="et-download-button" onclick="openEmail()">Baixar o EletronTech</button>
+			</div>
+		</div>
+		
+		<div class="et-bottom" id="et_download_screen">
+			<div class="et-download-timer" id="et_time">
+				<span class="et-app-text">Faltam 7 dias e...</span>
+				<span class="et-time">07:07:07</span>		
+			</div>
+			<div class="et-bottom-download" id="et_email_box">
+				<h2 class="et-download-text">Deixe seu e-mail e realize<br> todos os seus cálculos com o<br><b>EletronTech</b> gratuitamente!</h2>
+				<input class="et-email" id="et_input_email" type="text" placeholder="Digite seu e-mail"/>
+				<button class="et-download-button up" onclick="sendEmail()">Enviar</button>
+				<button class="et-download-cancel" onclick="closeEmail()">Voltar</button>
+			</div>
+		</div>
+		
+		<div class="et-bottom" id="et_sendEmail">
+			<table width="100%" height="100%">
+				<tr>
+					<td>
+						<span class="et-app-name">Obrigado!</span>	
+						<span class="et-app-text">E-mail recebido com sucesso!<br>O EletronTech estará disponível <br>a partir de 30/07/2016 às 12h00.</span>
+						<div class="et-bottom-download" id="et_confirm">
+							<button class="et-download-button up" onclick="sendEmailClose()">Ok</button>
+						</div>
+					</td>
+				</tr>
+			</table>
+		</div>
+		
+		<div class="et-bottom" id="et_video">
+			<span class="et-app-name" id="down">Vídeos</span>	
+			<iframe width="90%" id="videoplay" src="https://www.youtube.com/embed/JtIDxNxSY4Y" frameborder="0" allowfullscreen></iframe>
+			<div class="et-bottom-download">
+				<button class="et-download-button up" id="redbtn" onclick="window.open('https://www.youtube.com/channel/UCmGX9F8du1F_rWSjDFPcdSw','_blank');">Acesse nosso canal no Youtube</button>
+				<button class="et-download-cancel" onclick="closeVideo()">Voltar</button>
+			</div>
+		</div>
+		
+		<div class="et-bottom" id="et_images">
+			<span class="et-app-name" id="down">Imagens</span>	
+			<div class="et-images" id="intoImages">
+				<img class="et-img-pack" src="images/anytech-barras.png" onclick="window.open('https://www.facebook.com/ateletrontech/photos/a.519527521545975.1073741828.423107637854631/519861011512626/?type=3&theater','_blank')">
+				<img class="et-img-pack" src="images/anytech-barras.png" onclick="window.open('https://www.facebook.com/ateletrontech/photos/a.519527521545975.1073741828.423107637854631/519861011512626/?type=3&theater','_blank')">
+				<img class="et-img-pack" src="images/anytech-barras.png" onclick="window.open('https://www.facebook.com/ateletrontech/photos/a.519527521545975.1073741828.423107637854631/519861011512626/?type=3&theater','_blank')">
+				<img class="et-img-pack" src="images/anytech-barras.png" onclick="window.open('https://www.facebook.com/ateletrontech/photos/a.519527521545975.1073741828.423107637854631/519861011512626/?type=3&theater','_blank')">
+				<img class="et-img-pack" src="images/anytech-barras.png" onclick="window.open('https://www.facebook.com/ateletrontech/photos/a.519527521545975.1073741828.423107637854631/519861011512626/?type=3&theater','_blank')">
+				<img class="et-img-pack" src="images/anytech-barras.png" onclick="window.open('https://www.facebook.com/ateletrontech/photos/a.519527521545975.1073741828.423107637854631/519861011512626/?type=3&theater','_blank')">
+				<img class="et-img-pack" src="images/anytech-barras.png" onclick="window.open('https://www.facebook.com/ateletrontech/photos/a.519527521545975.1073741828.423107637854631/519861011512626/?type=3&theater','_blank')">
+				<img class="et-img-pack" src="images/anytech-barras.png" onclick="window.open('https://www.facebook.com/ateletrontech/photos/a.519527521545975.1073741828.423107637854631/519861011512626/?type=3&theater','_blank')">
+				<img class="et-img-pack" src="images/anytech-barras.png" onclick="window.open('https://www.facebook.com/ateletrontech/photos/a.519527521545975.1073741828.423107637854631/519861011512626/?type=3&theater','_blank')">
+				<img class="et-img-pack" src="images/anytech-barras.png" onclick="window.open('https://www.facebook.com/ateletrontech/photos/a.519527521545975.1073741828.423107637854631/519861011512626/?type=3&theater','_blank')">
+				<img class="et-img-pack" src="images/anytech-barras.png" onclick="window.open('https://www.facebook.com/ateletrontech/photos/a.519527521545975.1073741828.423107637854631/519861011512626/?type=3&theater','_blank')">
+				<img class="et-img-pack" src="images/anytech-barras.png" onclick="window.open('https://www.facebook.com/ateletrontech/photos/a.519527521545975.1073741828.423107637854631/519861011512626/?type=3&theater','_blank')">
+				<img class="et-img-pack" src="images/anytech-barras.png" onclick="window.open('https://www.facebook.com/ateletrontech/photos/a.519527521545975.1073741828.423107637854631/519861011512626/?type=3&theater','_blank')">
+				<img class="et-img-pack" src="images/anytech-barras.png" onclick="window.open('https://www.facebook.com/ateletrontech/photos/a.519527521545975.1073741828.423107637854631/519861011512626/?type=3&theater','_blank')">
+				<img class="et-img-pack" src="images/anytech-barras.png" onclick="window.open('https://www.facebook.com/ateletrontech/photos/a.519527521545975.1073741828.423107637854631/519861011512626/?type=3&theater','_blank')">
+			</div>
+			<div class="et-bottom-download" id="et_button_img">
+				<button class="et-download-button up" id="facebutton" onclick="window.open('https://www.facebook.com/anytechOficial','_blank')">Acompanhe-nos no Facebook!</button>
+				<button class="et-download-cancel" onclick="closeImages()">Voltar</button>
+			</div>
+		</div>
+		<!--MENU-->
+		<div class="et-menu" id="et_menu">
+			<button class="et-button-menu" onclick="goHome()">Home</button>
+			<button class="et-button-menu" onclick="openVideo()">Vídeos</button>
+			<button class="et-button-menu" onclick="openImages()">Imagens</button>
+			<button class="et-button-menu">Sobre</button>
+			<button class="et-button-menu" onclick="openEmailMenu()">Download</button>
+		</div>
+	</body>
+	<script>
+		window.onload = function(){
+			menuActived = 0;		
+			sendSizes();
+		}
+		
+		function sendSizes(){
+			sH = window.innerHeight;
+			dudici = sH * 0.12;
+			hTopBar.setAttribute("style", "height: "+dudici+"px");
+			hTopBarCover.setAttribute("style", "height: "+dudici+"px");
+			hImgLogo.setAttribute("style", "height: "+dudici+"px");
+			hImgBars.setAttribute("style", "height: "+dudici+"px");
+			
+			
+			ottantotto = sH * 0.88;
+			et_main.setAttribute("style", "height: "+ottantotto+"px");
+			et_download_screen.setAttribute("style", "height: "+ottantotto+"px");
+			et_sendEmail.setAttribute("style", "height: "+ottantotto+"px");
+			et_video.setAttribute("style", "height: "+ottantotto+"px");
+			et_images.setAttribute("style", "height: "+ottantotto+"px");
+			
+			quindici = sH * 0.15;
+			venticinque = sH * 0.25;
+			hBottomLogo.setAttribute("style", "margin-top: "+quindici+"px; height: "+venticinque+"px;");
+			
+			due = sH * 0.02;
+			hBottomText.setAttribute("style", "height: "+venticinque+"px; margin-top: "+due+"px");
+			
+			dieci = sH * 0.10;
+			hBottomDownload.setAttribute("style", "height: "+dieci+"px; margin-top: "+due+"px");
+			et_email_box.setAttribute("style", "height: "+dieci+"px; margin-top: "+due+"px");
+			et_confirm.setAttribute("style", "height: "+dieci+"px; margin-top: "+due+"px");
+			
+			undici = sH * 0.1195;
+			et_menu.setAttribute("style", "height: "+ottantotto+"px; top: -"+sH+"px");
+			
+			venti = sH * 0.20;
+			et_time.setAttribute("style", "height: "+venti+"px; margin-top: "+dieci+"px");
+			
+			quarantta = sH * 0.40;
+			videoplay.setAttribute("style", "height: "+quarantta+"px; margin-top: "+due+"px");
+			
+			cinquetta = sH * 0.50;
+			intoImages.setAttribute("style", "height: "+cinquetta+"px; margin-top: "+due+"px");
+		}
+		
+		function menuControl(){
+			if(menuActived == 1)
+			{
+				et_menu.style.top = "-"+sH+"px";
+				menuActived = 0;
+			}
+			else
+			{
+				et_menu.style.top = undici+"px";
+				menuActived = 1;
+			}
+		}
+		
+		function openEmail(){
+			clear();
+			et_download_screen.style.display = "inline-block";
+			et_download_screen.style.visibility = "visible";
+			et_download_screen.style.opacity = "1";
+		}
+		
+		function closeEmail(){
+			et_download_screen.style.visibility = "hidden";
+			et_download_screen.style.opacity = "0";
+		}
+		
+		function sendEmail(){
+			et_sendEmail.style.display = "inline-block";
+			et_sendEmail.style.visibility = "visible";
+			et_sendEmail.style.opacity = "1";
+		}
+		
+		function sendEmailClose(){
+			et_sendEmail.style.visibility = "hidden";
+			et_sendEmail.style.opacity = "0";
+			et_sendEmail.style.display = "none";
+			et_download_screen.style.visibility = "hidden";
+			et_download_screen.style.opacity = "0";
+			et_download_screen.style.display = "none";
+		}
+		
+		function openEmailMenu(){
+			menuControl();
+			openEmail();
+		}
+		
+		et_input_email.onfocus = function(){
+			et_time.style.visibility = "hidden";
+			et_time.style.opacity = "0";
+			et_time.style.display = "none";
+		}
+		
+		et_input_email.onblur = function(){
+			et_time.style.visibility = "visible";
+			et_time.style.opacity = "1";
+			et_time.style.display = "inline-block";
+		}
+		
+		function goHome(){
+			clear();
+			menuControl();
+		}
+		
+		function openVideo(){
+			menuControl();
+			sendEmailClose();
+			et_video.style.display = "inline-block";
+			et_video.style.visibility = "visible";
+			et_video.style.opacity = "1";
+		}
+		
+		function closeVideo(){
+			et_video.style.visibility = "hidden";
+			et_video.style.opacity = "0";
+		}
+		
+		function clear(){
+			sendEmailClose();
+			closeVideo();
+		}
+		
+		function openImages(){
+			menuControl();
+			et_images.style.display = "inline-block";
+			et_images.style.visibility = "visible";
+			et_images.style.opacity = "1";
+		}
+		
+		function closeImages(){
+			et_images.style.visibility = "hidden";
+			et_images.style.opacity = "0";
+		}
+	</script>
+</html>

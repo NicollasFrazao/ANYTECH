@@ -1,0 +1,26 @@
+@media screen and (max-width: 600px)
+{
+	.anytech-col-one
+	{
+		display: inline-block;	
+		width: 98%;
+	}
+	
+	.anytech-col-two
+	{
+		display: none;	
+		width: 46%;
+	}
+	
+	.anytech-col-three
+	{
+		display: none;	
+		width: 23%;
+	}
+	
+	.anytech-col-four
+	{
+		display: none;	
+		width: 23%;	
+	}
+}

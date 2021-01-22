@@ -1,0 +1,207 @@
+<!Doctype HTML>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title></title>
+		<style>
+			*
+			{
+				margin: 0px;
+				padding: 0px;
+				font-family: century gothic;
+			}
+			
+			::-webkit-scrollbar
+			{
+				height: 5px;
+				width: 4px;
+				background: rgb(242,242,242);
+			}
+
+			::-webkit-scrollbar-thumb
+			{
+				background: #ccc;
+			}
+
+			::-webkit-scrollbar-corner
+			{
+				background: #333;
+			}
+			
+			html, body
+			{
+				width: 100%;
+				height: 100%;
+				background-color: #eee;
+				overflow: hidden;
+			}
+			
+			
+			.topbar
+			{
+				display: inline-block;
+				width: 100%;
+				height: 10%;
+				position:absolute;
+				z-index: 9999;
+				background-color: rgb(0,112,192);
+			}
+			
+			
+			#txt_post
+			{
+				display: inline-block;
+				background-color: white;
+				width: 50%;
+				height: 75.5%;
+				max-height: 75.5%;
+				padding:5%;
+				padding-left:7.5%;
+				padding-right:7.5%;
+				margin-top:6.25%;
+				letter-spacing: 0.03em;
+				line-height: 1.5em;
+				outline: none;
+				overflow: auto;
+				position:absolute;
+				right: 0px;
+				border: 0px;
+			}
+			
+			.button-box
+			{
+				display: inline-block;
+				width: 35%;
+				height: auto;
+				margin-top:7.5%;
+				background-color: transparent;
+				position:absolute;
+			}
+			
+			.at-button
+			{
+				display: inline-block;
+				width: 7.5%;
+				margin:2.5%;
+				margin-top:2.5%;
+				padding:5px;
+				background-color: #fff;
+				box-shadow: 0px 1px 2px rgba(0,0,0,0.3);
+				outline: none;
+			}
+			
+			.at-button:hover
+			{
+				background-color: rgb(0,112,192);
+				-webkit-filter: brightness(2) grayscale(1);
+			}
+			
+			.at-title
+			{
+				display: inline-block;
+				width: 85%;
+				padding: 5%;
+				padding-top: 2.5%;
+				padding-bottom: 2.5%;
+				margin-left:2.5%;
+				margin-bottom: 20px;
+				background-color: transparent;
+				border: 0px;
+				outline: none;
+				border-bottom: 1px solid #777;
+			}
+			
+			.at-leg
+			{
+				margin-left:2.5%;
+			}
+			
+			.titleapp
+			{
+				display: inline-block;
+				background-color: transparent;
+				color: white;
+				padding-top: 2.5%;
+				margin-left: 7%;
+			}
+			
+			.menu-btn
+			{
+				display: inline-block;
+				position: absolute;
+				height: 70%;
+				background-color: transparent;
+				left: 0.5%;
+				top: 15%;
+			}
+			
+			.menu-info
+			{
+				display: inline-block;
+				width: 100%;
+				height: 90%;
+				top:10%;
+				background-color: rgba(233,233,233,0.7);
+				position: fixed;
+				z-index: 9999;
+			}
+		</style>
+	</head>
+	<body>
+	
+		<div class="topbar" valign="center">
+			<input type="image" src="images/menu.png" class="menu-btn">
+			<label class="titleapp"  valign="center"><b>SCRIPTECH: </b>Criando bla bla bla não sei onde... <b>[Não publicado]</b></label>	
+			
+		</div>
+		<div class="menu-info">
+			<table>
+				<tr>
+					<td>
+						<input type="text" class="at-titulo" placeholder="Título do artigo" required/>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<textarea class="at-desc" required></textarea>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<div class="">
+						
+						</div>
+					</td>
+				</tr>
+			</table>
+			
+		</div>
+		<div class="button-box">
+			<table width="100%" cellspacing="0">
+				<tr>
+					<td>
+						<input type="image" class="at-button" src="images/title.png">
+						<input type="image" class="at-button" src="images/desc.png">
+						<input type="image" class="at-button" src="images/tag.png">				
+						<input type="image" class="at-button" src="images/highlighter.png">						
+						<input type="image" class="at-button" src="images/citacao.png">
+						<input type="image" class="at-button" src="images/link.png">
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<input type="image" class="at-button" src="images/picture.png">			
+						<input type="image" class="at-button" src="images/preview.png">	
+						<input type="image" class="at-button" src="images/fonte.png">
+						<input type="image" class="at-button" src="images/bold.png">
+						<input type="image" class="at-button" src="images/italic.png">
+						<input type="image" class="at-button" src="images/sublinhado.png">
+					</td>
+				</tr>
+			</table>
+		</div>
+		<textarea id="txt_post" name="texto" style="resize: none;" required></textarea>		
+		
+		
+	</body>
+</html>

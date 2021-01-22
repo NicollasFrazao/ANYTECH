@@ -1,0 +1,78 @@
+﻿Na <at-negrito>Grécia antiga</at-negrito> (séc. VI a.C.) em uma região chamada Magnésia observou-se a existência de uma pedra de comportamento estranho, pois foi observado que elas têm a propriedade de atrair materiais como o ferro, hoje sabemos que esta pedra é a magnetita (oxido de ferro Fe3O4) nesta época, referida, a pedra tomou o nome de imã, e o estudo dos imãs chamasse magnetismo.
+Para os <at-sublinhado>imãs</at-sublinhado> foram observados três fatos importantes, primeiro a capacidade de atrair objetos de ferro, segundo a capacidade de transmitir esta capacidade para os objetos de ferro, e terceiro que esta capacidade está concentrada principalmente nas regiões extremas do imã.
+Essas regiões extremas foram chamadas de polos devido à interação do imã com a posição da Terra.
+<at-imagem>imagens/1444175542.jpg</at-imagem>
+<at-subtitulo>QUER MAIS?</at-subtitulo>
+Foi essa característica que possibilitou a construção da bússola que foi tão importante para as navegações. 
+<at-italico>Inicialmente</at-italico> pesquisadores resolveram quebrar um imã ao meio para separar os polos assim logo perceberam que ao quebrar um imã os polos iniciais se conservam e no local onde foi quebrado se forma um polo oposto a esse, isso infinitas vezes, se necessário. Acesse <at-hiperlink>WWW.ANYTECH.COM.BR/ELETRONTECH##http://www.anytech.com.br/eletrontech</at-hiperlink>  e venha para o ELETRONTECH!
+E com uma citação de Lucas Sergio eu vou encerrando esse post.
+<at-citacao>A cada uma tabela que morre, nascem outras quatro...</at-citacao>
+<at-highlighter>##Highlighter##php##<?php
+	session_start();
+	include "../php/Conexao.php";
+	
+	if((isset ($_SESSION['TheNigga']['nome']) == true) and (isset ($_SESSION['TheNigga']['senha']) == true)) 
+	{ 
+		$logado = 1;
+	}
+	else if ((isset($_COOKIE['TheNigga']['email']) == true) and (isset($_COOKIE['TheNigga']['senha']) == true))
+	{
+		$logado = 0;
+		$cookie = 1;
+		$emailCookie = $_COOKIE['TheNigga']['email'];
+		$senhaCookie = base64_decode($_COOKIE['TheNigga']['senha']);
+	}
+	else
+	{
+		$logado = 0;
+		$cookie = 0;
+		$emailCookie = "";
+		$senhaCookie = "";
+	}
+	
+	if (!isset($_GET['topico']))
+	{
+		header('location: index.php');
+	}
+	else
+	{
+		
+		$codigoTopico = mysql_escape_string(base64_decode($_GET['topico']));
+		
+		if (isset($_SESSION['TheNigga']['codigo']))
+		{
+			$codigo = $_SESSION['TheNigga']['codigo'];
+		}
+		else
+		{
+			$codigo = "";
+		}
+		
+		$query_Visu = "insert into tb_visualizacao_topico(cd_usuario, dt_visualizacao, cd_topico) values('$codigo', now(), '$codigoTopico')";
+		$result_Visu = mysql_query($query_Visu);
+		
+		$query_Topico = "select tb_topico.cd_topico,
+							   tb_topico.nm_topico,
+							   tb_topico.dt_topico,
+							   tb_topico.cd_categoria,
+							   tb_topico.cd_usuario,
+							   (select tb_usuario.nm_forum from tb_usuario where tb_usuario.cd_usuario = tb_topico.cd_usuario) as 'Autor',
+							   (select tb_usuario.im_usuario from tb_usuario where tb_usuario.cd_usuario = tb_topico.cd_usuario) as 'Imagem'
+						  from tb_topico
+							 where tb_topico.cd_topico = '$codigoTopico'";
+		$result_Topico = mysql_query($query_Topico);
+		$linha_Topico = mysql_fetch_assoc($result_Topico);
+		$total_Topico = mysql_num_rows($result_Topico);
+		
+		if ($total_Topico == 0)
+		{
+			header('location: Categoria.php');
+		}
+	}
+	
+	$title = 'Tópico "'.$linha_Topico['nm_topico'].'" - The Nigga';
+	$pagina = 'Fórum - The Nigga';
+	$volta = '../';
+	$voltar = '';
+	$link = 'Categoria.php?categoria='.base64_encode($linha_Topico['cd_categoria']);
+?>##Highlighter##</at-highlighter>

@@ -1,0 +1,1 @@
+<?php include 'php-article.php'; ?> <?php include 'article.php'; ?> <?php $conexaoPrincipal -> FecharConexao(); ?>

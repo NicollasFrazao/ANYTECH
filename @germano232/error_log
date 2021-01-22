@@ -1,0 +1,8 @@
+[01-Jun-2016 18:49:04 America/Chicago] PHP Warning:  include(../profile.php): failed to open stream: No such file or directory in /home/anyte539/public_html/@germano232/index.php on line 3
+[01-Jun-2016 18:49:04 America/Chicago] PHP Warning:  include(../profile.php): failed to open stream: No such file or directory in /home/anyte539/public_html/@germano232/index.php on line 3
+[01-Jun-2016 18:49:04 America/Chicago] PHP Warning:  include(): Failed opening '../profile.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/anyte539/public_html/@germano232/index.php on line 3
+[01-Jun-2016 18:49:04 America/Chicago] PHP Fatal error:  Call to a member function FecharConexao() on a non-object in /home/anyte539/public_html/@germano232/index.php on line 6
+[01-Jun-2016 18:57:49 America/Chicago] PHP Warning:  include(../profile.php): failed to open stream: No such file or directory in /home/anyte539/public_html/@germano232/index.php on line 3
+[01-Jun-2016 18:57:49 America/Chicago] PHP Warning:  include(../profile.php): failed to open stream: No such file or directory in /home/anyte539/public_html/@germano232/index.php on line 3
+[01-Jun-2016 18:57:49 America/Chicago] PHP Warning:  include(): Failed opening '../profile.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/anyte539/public_html/@germano232/index.php on line 3
+[01-Jun-2016 18:57:49 America/Chicago] PHP Fatal error:  Call to a member function FecharConexao() on a non-object in /home/anyte539/public_html/@germano232/index.php on line 6

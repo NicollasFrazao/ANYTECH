@@ -1,0 +1,4 @@
+[21-Nov-2018 08:06:55 America/Chicago] PHP Catchable fatal error:  Object of class mysqli could not be converted to string in /home/anyte539/public_html/testeConexaoMatriz.php on line 12
+[22-Nov-2018 14:25:08] PHP Fatal error:  Class 'Phar' not found in /opt/cpanel/composer/bin/composer on line 23
+[22-Nov-2018 17:24:21] PHP Fatal error:  Class 'Phar' not found in /home/anyte539/composer.phar on line 23
+[14-Apr-2019 07:37:07 America/Chicago] PHP Warning:  mysqli::query(): Empty query in /home/anyte539/public_html/itau_cad_grupo.php on line 9

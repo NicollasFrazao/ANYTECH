@@ -1,0 +1,348 @@
+*
+{
+	margin:0px;
+	padding: 0px;
+	font-family: Century Gothic;
+	outline: none;
+	border: 0px;	
+	overflow: hidden;
+}
+
+html
+{
+	display: inline-block;
+	width: 100%;
+	height: 100%;
+}
+
+body
+{
+	display: inline-block;
+	width: 100%;
+	height: 100%;
+}
+
+option
+{
+	display: inline-block;
+	padding: 2%;
+}
+
+::-webkit-scrollbar
+{
+	height: 5px;
+	width: 4px;
+	background: rgb(242,242,242);
+}
+
+::-webkit-scrollbar-thumb
+{
+	background: #ccc;
+}
+
+::-webkit-scrollbar-corner
+{
+	background: #333;
+}
+
+.anytech-bar
+{
+	display: inline-block;
+	width: 100%;
+	height: 70px;
+	background-color: rgb(242,242,242);
+	position: fixed;
+	z-index: 9997;
+	top: 0px;
+}
+
+.anytech-page
+{
+	display: inline-block;
+	width: 100%;
+	height: 100%;
+	background-color: white;
+}
+
+.anytech-sections
+{
+	display: inline-block;
+	width: 100%;
+	height: 125%;
+	background-color: white;
+	margin-bottom: 150px;
+}
+
+.anytech-map
+{
+	display: inline-block;
+	width: 100%;
+	height: 200px;
+	background-color: rgb(242,242,242);
+	margin-bottom: 10px;
+	position: absolute;
+	margin-bottom: 0px;
+	margin-top: 30%;
+	
+}
+
+#anytech_logo_image
+{
+	display: inline-block;
+	height: 40px;
+	margin: 15px;
+	margin-left: 25px;
+	width: auto;
+}
+
+#anytech_login_button
+{
+	display: inline-block;
+	height: 30px;
+	width: 100px;
+	position: absolute;
+	margin-top:20px;
+	right: 2.5%;
+	background-color: rgb(100,100,100);
+	color: white;
+	font-weight: bold;
+	
+}
+
+#anytech_login_button:hover
+{
+	background-color: rgb(120,120,120);
+}
+
+
+
+/* SIGNUP PAGE */
+
+.signup-label-topbar
+{
+	display: inline-block;
+	height: 30px;
+	font-size: 1.5em;
+	color: rgb(90,90,90);
+	float: right;
+	background-color: transparent;
+	padding: 22px;
+}
+
+.signup-data
+{
+	display: inline-block;
+	width: 90%;
+	height: 70%;
+	bottom: 10%;
+	position: absolute;
+	background-color:  rgba(255,255,255,0.0);
+	padding-left: 5%;
+}
+
+.signup-image
+{
+	display: inline-block;
+	width: 230px;
+	height: 230px;
+	margin-top: 2%;
+	background-color: rgba(232,232,232,0.3);
+	box-shadow: 0px 0px 10px 0px black;
+}
+
+.signup-label
+{
+	color: rgb(242,242,242);
+	font-size: 1em;
+	
+}
+
+#signup_label_title
+{
+	display: inline-block;
+	font-size: 2em;
+	margin-top: 1%;
+	margin-bottom: 1%;
+	font-weight: bold;
+	color: rgb(242,242,242);
+}
+
+.signup-image-button
+{
+	display: none;
+	width: 230px;
+	padding:10px;
+	background-color: rgba(255,255,255,0.9);
+	color: black;
+	position: absolute;
+	margin-top: -40px;
+	transition: display 2s;
+}
+
+.signup-buttons-group
+{
+	display: inline-blcok;
+	width:90%;
+	height: 10%;
+	margin-top: 10%;
+	background-color: transparent;
+}
+
+
+
+#signup_location
+{
+	display: inline-block;
+	height: 100%;
+	width: 100%;
+	background-image: url('../images/slider/15.jpg');
+	background-size: 120% auto;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	position: fixed;
+}
+
+#signup_favorites
+{
+	display: none;
+	height: 100%;
+	width: 100%;
+	background-image: url('../images/slider/121.jpg');
+	background-size: 120% auto;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	position: fixed;
+}
+
+#signup_photo
+{
+	display: none;
+	height: 100%;
+	width: 100%;
+	background-image: url('../images/slider/12.jpg');
+	background-size: 120% auto;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	position: fixed;
+}
+
+.anytech-favorite-button
+{
+	display: inline-block;
+	width: 200px;
+	margin-bottom: 5px;
+	padding: 10px;
+	color: #fff;
+	background-color: rgba(0,0,0,0.5);
+	box-shadow: 0 1px 2px rgba(0,0,0,0.3);
+	
+}
+
+.anytech-favorite-button:hover
+{
+	background-color: White;
+	color: black;
+	font-weight: bold;
+}
+
+.signup-select-state
+{
+	display: inline-block;
+	width: 250px;
+	padding: 1%;
+	margin-bottom:20px;
+}
+
+.signup-select-city
+{
+	display: inline-block;
+	width: 250px;
+	padding: 1%;
+	margin-bottom:20px;
+}
+
+#select_label
+{
+	display: inline-block;
+	margin-top: 30px;
+	font-size: 0.9em;
+}
+
+.into-fav
+{
+	display: inline-block;
+	width: 100%;
+	height: 50%;
+}
+
+
+.anytech-popup-buttons
+{
+	display: inline-block;
+	width:90%;
+	height: 5%;
+	margin: 2%;
+	margin-left: 5%;
+}
+
+.anytech-cancel
+{
+	display: inline-block;
+	width: auto;
+	height: auto;
+	padding:1%;
+	background-color: white;
+	color: rgb(150,150,150);
+}
+
+.anytech-cancel:hover
+{
+	background-color: rgb(249,249,249);
+	color: rgb(100,100,100);
+}
+
+.anytech-next
+{
+	display: inline-block;
+	height: auto;
+	padding:1%;
+	width: auto;
+	height: auto;
+	border: 1px solid rgb(100,100,100);
+	background-color: rgb(100,100,100);
+	color: white;
+}
+
+.anytech-next:hover
+{
+	background-color: rgb(130,130,130);
+	border: 1px solid rgb(130,130,130);
+}
+
+#coverlog
+{
+	display: inline-block;
+	width: 100%;
+	height: 100%;
+	top: 0px;
+	left: 0px;
+	background-color: rgba(0,0,0,0.3);
+	position: fixed;
+}
+
+
+#notificacao_cadastro
+{
+	display: inline-block;
+	width: 300px;
+	padding:20px;
+	height: auto;
+	top: 50%;
+	left: 50%;
+	margin-top: -45px;
+	margin-left: -170px;
+	position: absolute;
+	background-color: #fff;
+	color: #777;
+	box-shadow: 0px 1px 2px rgba(0,0,0,0.3);
+}

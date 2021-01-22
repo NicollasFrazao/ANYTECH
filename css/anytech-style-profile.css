@@ -1,0 +1,587 @@
+*
+{
+	margin:0px;
+	padding: 0px;
+	font-family: Century Gothic;
+	outline: none;
+	border: 0px;	
+	outline: none;
+	letter-spacing: -0.3px;
+}
+
+html
+{
+	display: inline-block;
+	width: 100%;
+	height: auto;
+}
+
+body
+{
+	display: inline-block;
+	width: 100%;
+	height: auto;
+	background-color: #eee;
+	transition: background 1s;
+	/*background-image: url('../images/wallpapers/2.jpg');*/
+	background-size: 150% auto;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-color: #a4345c;
+}
+
+option
+{
+	display: inline-block;
+	padding: 2%;
+}
+
+::-webkit-scrollbar
+{
+	height: 5px;
+	width: 4px;
+	background-color: rgba(255,255,255,0.3);
+}
+
+::-webkit-scrollbar-thumb
+{
+	background-color: rgba(0,0,0,0.5);
+}
+
+::-webkit-scrollbar-corner
+{
+	background: red;
+}
+
+
+.anytech-art-image
+{
+	display: inline-block;
+	height: 100%;
+	width: 100%;
+	padding-top: 80px;
+	background-color: transparent;
+}
+
+
+.anytech-profile-main
+{
+	display: inline-block;
+	background-image: linear-gradient(to right, transparent, transparent);
+	width: 100%;
+	height: 150px;
+	margin-top: 330px;
+	padding-top:20px;
+}
+
+
+.anytech-art-info
+{
+	display: inline-block;
+	width: 100%;
+	height: 500px;
+	background-color: rgba(0,0,0,0.4);
+	position: absolute;
+}
+
+.anytech-profile-data
+{
+	display: inline-block;
+	width: 100%;
+	height: 200px;
+	margin-top: 300px;
+	background-color: red;
+}
+
+.anytech-profile-image
+{
+	display: inline-block;
+	width: 80px;
+	max-height: 100px;
+	margin-top:30px;
+	margin-bottom:30px;
+	border-radius: 50%;
+	border-bottom-right-radius: 0px;
+}
+
+#profile_image_cover
+{
+	display: none;
+	width: 80px;
+	margin-top:30px;
+	margin-left:-80px;
+	border-radius: 50%;
+	border-bottom-right-radius: 0px;
+	background-color: rgba(0,0,0,0.3);
+	z-index: 9999;
+	position: absolute;
+}
+
+.wallpaper_profile
+{
+	display: inline-block;
+	width: 40px;
+	position: absolute;
+	right: 15px;
+	margin-top: -30px;
+}
+
+.anytech-profile-name
+{
+	display: inline-block;
+	width: 98%;
+	margin-top:10px;
+	font-size: 1.2em;
+	color: #ddd;
+	z-index: 9999;
+	font-weight: bold;
+	transition: color 1s;
+}
+
+.anytech-profile-loc
+{
+	display: inline-block;
+	width: 98%;
+	margin-left: 2%;
+	font-size: 1em;
+	color: white;
+	margin-bottom: 10px;
+	z-index: 9999;
+	text-shadow: 1px 0px rgba(0,0,0,0.5);
+}
+
+.anytech-profile-loc:before
+{
+	content: url('../images/locale.png');
+}
+
+.anytech-follow-button
+{
+	display: inline-block;
+	width: 80%;
+	padding: 20px;
+	padding-top: 7px;
+	padding-bottom: 7px;
+	margin-top: 30px;
+	margin-bottom: 30px;
+	background-color: #ccc;
+	color: #fff;
+	transition: background 1s;
+}
+
+.anytech-col-mini
+{
+	display: inline-block;
+	width: 25%;
+	height: 100%;
+	background-color: transparent;
+	margin: 2%;
+}
+
+.anytech-col-large
+{
+	display: inline-block;
+	width: 69%;
+	height: 100%;
+	background-color:transparent;
+	margin: 2%;
+	margin-left: 0px;
+	position: absolute;
+}
+
+.anytech-favorites
+{
+	display: inline-block;
+	width: 100%;
+	height: auto;
+	background-color: #fff;	
+}
+
+.anytech-box-title
+{
+	display: inline-block;
+	width: 90%;
+	padding:5%;
+	color: #fff;
+	font-size: 1em;
+	font-weight: bold;
+	background-color: #bbb;
+	transition: background 1s;
+}
+
+.anytech-favorite-option
+{
+	display: inline-block;
+	width: 100%;
+	padding: 5%;
+	text-align: left;
+	background-color: white;
+	font-size: 0.9em;
+	color: #777;
+}
+
+.anytech-favorite-option:hover
+{
+	background-color: #ccc;
+	color: white;
+	font-weight: bold;
+}
+
+.anytech-data
+{
+	display: inline-block;
+	width: 100%;
+	height: auto;
+	background-color: transparent;	
+}
+
+.anytech-products
+{
+	margin-top: 20px;
+	background-color: #fff;	
+}
+
+.anytech-info-icon
+{
+	display: inline-block;
+	width: 24px;
+	padding: 5px;
+	padding-left: 0px;
+}
+
+.anytech-info-label
+{
+	margin-left: 5px;
+	font-size: 0.9em;
+	color: #777;
+}
+
+.anytech-data-into
+{
+	display: inline-block;
+	width: 90%;
+	padding: 5%;
+	background-color: white;
+	box-shadow: 0 2px 3px rgba(0,0,0,0.3);
+	margin-bottom: 40px;
+}
+
+.anytech-follow
+{
+	display: inline-block;
+	width: 90%;
+	padding: 5%;
+	background-color:  #2457c5;
+	box-shadow: 0 2px 3px rgba(0,0,0,0.3);
+	margin-bottom: 20px;
+}
+
+.anytech-info-label-count
+{
+	display: inline-block;
+	width: 100%;
+	font-size: 1.2em;
+	font-weight: bold;
+	color: #ddd;
+	transition: color 1s;
+}
+
+.anytech-info-label-follow
+{
+	display: inline-block;
+	width: 100%;
+	font-size: 0.8em;
+	color: #ddd;
+	transition: color 1s;
+}
+
+.anytech-info-icon-follow
+{
+	display: inline-block;
+	width: 60px;
+}
+
+
+.anytech-post-box
+{
+	display: inline-block;
+	width: 100%;
+	height:auto;
+	background-color: #fff;
+	box-shadow: 0 3px 2px rgba(0,0,0,0.2);
+	margin-bottom: 20px;
+}
+
+.anytech-post-image
+{
+	display: inline-block;
+	width: 100%;	
+}
+
+.anytech-post-title
+{
+	display: inline-block;
+	width: 90%;
+	margin:3%;
+	margin-bottom: 0px;
+	text-transform: uppercase;
+	font-size: 1em;
+	font-weight: bold;
+	color: #555;
+}
+
+.anytech-post-author
+{
+	display: inline-block;
+	width: 90%;
+	margin:3%;
+	margin-top: 0px;
+	font-size: 0.7em;
+	color: #777;
+}
+
+
+.anytech-post-desc
+{
+	display: inline-block;
+	width: 90%;
+	margin:3%;
+	margin-top: 0px;
+	font-size: 0.7em;
+	color: #777;
+}
+
+
+.anytech-post-tags
+{
+	display: inline-block;
+	width: 90%;
+	margin:3%;
+	margin-top: 0px;
+	font-size: 0.7em;
+	color: #777;
+}
+
+.anytech-post-buttons
+{
+	display: inline-block;
+	width: 95%;
+	padding: 2.5%;
+	height:30px;
+	margin-top: 0px;
+	font-size: 0.7em;
+	border-top: 1px solid #eee;
+}
+
+.anytech-post-rating
+{
+	background-color: #0145ff;
+}
+
+.anytech-post-rating:hover
+{
+	background-color: #0181FF;
+}
+
+
+.anytech-post-like
+{
+	background-color: #0145ff;
+}
+
+.anytech-post-like:hover
+{
+	background-color: #0181FF;
+}
+
+.anytech-post-comment
+{
+	background-color: #ffa700;
+}
+
+.anytech-post-comment:hover
+{
+	background-color: gold;
+}
+
+.anytech-post-share
+{
+	background-color: #12b802;
+}
+
+.anytech-post-share:hover
+{
+	background-color: #4EE000;
+}
+
+.anytech-post-favorite
+{
+	background-color: #FF0000;
+}
+
+.anytech-post-favorite:hover
+{
+	background-color: #FF4444;
+}
+
+.anytech-post-time
+{
+	background-color: #000;
+}
+
+.anytech-post-time:hover
+{
+	background-color: #444;
+}
+
+.anytech-post-delation
+{
+	background-color: #FF0000;
+}
+
+.anytech-post-delation:hover
+{
+	background-color: #FF4444;
+}
+
+.favorite_post
+{
+	color: red;
+}
+
+.share_post
+{
+	color: green;
+}
+
+.anytech-profile-products
+{
+	display: inline-block;
+	width: 27%;
+	margin: 2%;
+	margin-bottom: 3%;
+	margin-top: 0px;
+}
+
+#content-label
+{
+	display: none;
+	margin-bottom: -10px;
+}
+
+.image-cut
+{
+	width: 100%;
+	height: auto;
+	overflow: hidden;
+}
+
+.anytech-date
+{
+	font-weight: normal;
+	text-transform: lowercase;
+}
+
+.anytech-art-comment-now
+{
+	display: inline-block;
+	width: 96%;
+	height: auto;
+	background-color: #fff;
+	padding-top: 30px;
+	padding: 2%;
+	margin-bottom: 30px;
+	box-shadow: 0 2px 3px rgba(0,0,0,0.3);
+}
+
+.comment-area
+{
+	display: inline-block;
+	width: 100%;
+	height: 80px;
+	resize: none;
+	padding: 3%;
+	overflow: hidden;
+	font-size: 0.9em;
+	margin-bottom: 5px;
+	color: #333;
+	font-size: 0.9em;
+	text-align: justify;
+	background-color: #fafafa;
+}
+
+.comment-area:focus
+{
+	border: 1px solid #ddd;
+}
+
+.button-comment-submit
+{
+	display: inline-block;
+	width: 100px;
+	height: 40px;
+	float: right;
+	color: white;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	padding:1%;
+	background-color: #bbb;
+	transition: background 1s;
+}
+
+.anytech-profile-feed-left
+{
+	display: inline-blck;
+	background-color: transparent;
+	width: 48.5%;
+	height: 100%;
+	position: absolute;
+}
+
+.anytech-profile-feed-right
+{
+	display: inline-blck;
+	background-color: transparent;
+	width: 48.5%;
+	right: 0px;
+	height: 100%;
+	position: absolute;
+}
+
+.post-profile-status
+{
+	display: inline-block;
+	width: 94%;
+	padding:3%;
+	color: white;
+	font-size: 0.8em;	
+}
+
+@media screen and (max-width: 600px)
+{
+	
+	.anytech-col-mini
+	{
+		display: inline-block;
+		width: 94%;
+		height: auto;
+		background-color: transparent;
+		margin:3%;
+	}
+
+	.anytech-col-large
+	{
+		display: inline-block;
+		width: 94%;
+		height: auto;
+		background-color:transparent;
+		margin: 3%;
+		margin-left: 3%;
+		position: relative;
+	}
+
+	#content-label
+	{
+		display: inline-block;
+	}
+}

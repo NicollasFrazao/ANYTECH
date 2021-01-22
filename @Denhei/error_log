@@ -1,0 +1,21 @@
+[19-Mar-2016 09:12:54 America/Chicago] PHP Warning:  include(../profile.php): failed to open stream: No such file or directory in /home/anyte539/public_html/@Denhei/index.php on line 1
+[19-Mar-2016 09:12:54 America/Chicago] PHP Warning:  include(../profile.php): failed to open stream: No such file or directory in /home/anyte539/public_html/@Denhei/index.php on line 1
+[19-Mar-2016 09:12:54 America/Chicago] PHP Warning:  include(): Failed opening '../profile.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/anyte539/public_html/@Denhei/index.php on line 1
+[19-Mar-2016 09:12:54 America/Chicago] PHP Fatal error:  Call to a member function FecharConexao() on a non-object in /home/anyte539/public_html/@Denhei/index.php on line 1
+[22-Mar-2016 19:35:48 America/Chicago] PHP Warning:  include(../profile.php): failed to open stream: No such file or directory in /home/anyte539/public_html/@Denhei/index.php on line 1
+[22-Mar-2016 19:35:48 America/Chicago] PHP Warning:  include(../profile.php): failed to open stream: No such file or directory in /home/anyte539/public_html/@Denhei/index.php on line 1
+[22-Mar-2016 19:35:48 America/Chicago] PHP Warning:  include(): Failed opening '../profile.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/anyte539/public_html/@Denhei/index.php on line 1
+[22-Mar-2016 19:35:48 America/Chicago] PHP Fatal error:  Call to a member function FecharConexao() on a non-object in /home/anyte539/public_html/@Denhei/index.php on line 1
+[26-Mar-2016 14:50:01 America/Chicago] PHP Warning:  include(../profile.php): failed to open stream: No such file or directory in /home/anyte539/public_html/@Denhei/index.php on line 1
+[26-Mar-2016 14:50:01 America/Chicago] PHP Warning:  include(../profile.php): failed to open stream: No such file or directory in /home/anyte539/public_html/@Denhei/index.php on line 1
+[26-Mar-2016 14:50:01 America/Chicago] PHP Warning:  include(): Failed opening '../profile.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/anyte539/public_html/@Denhei/index.php on line 1
+[26-Mar-2016 14:50:01 America/Chicago] PHP Fatal error:  Call to a member function FecharConexao() on a non-object in /home/anyte539/public_html/@Denhei/index.php on line 1
+[26-Mar-2016 18:00:55 America/Chicago] PHP Warning:  include(../profile.php): failed to open stream: No such file or directory in /home/anyte539/public_html/@Denhei/index.php on line 1
+[26-Mar-2016 18:00:55 America/Chicago] PHP Warning:  include(../profile.php): failed to open stream: No such file or directory in /home/anyte539/public_html/@Denhei/index.php on line 1
+[26-Mar-2016 18:00:55 America/Chicago] PHP Warning:  include(): Failed opening '../profile.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/anyte539/public_html/@Denhei/index.php on line 1
+[26-Mar-2016 18:00:55 America/Chicago] PHP Fatal error:  Call to a member function FecharConexao() on a non-object in /home/anyte539/public_html/@Denhei/index.php on line 1
+[01-Apr-2016 21:53:13 America/Chicago] PHP Warning:  include(../profile.php): failed to open stream: No such file or directory in /home/anyte539/public_html/@Denhei/index.php on line 1
+[01-Apr-2016 21:53:13 America/Chicago] PHP Warning:  include(../profile.php): failed to open stream: No such file or directory in /home/anyte539/public_html/@Denhei/index.php on line 1
+[01-Apr-2016 21:53:13 America/Chicago] PHP Warning:  include(): Failed opening '../profile.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/anyte539/public_html/@Denhei/index.php on line 1
+[01-Apr-2016 21:53:13 America/Chicago] PHP Fatal error:  Call to a member function FecharConexao() on a non-object in /home/anyte539/public_html/@Denhei/index.php on line 1
+[21-Apr-2016 17:29:23 America/Sao_Paulo] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/anyte539/public_html/php/Conexao.php on line 25

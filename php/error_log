@@ -1,0 +1,45 @@
+[27-Jan-2016 02:46:44] PHP Warning:  fopen(../UsuarioTeste/index.php) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: Arquivo ou diretório não encontrado in /home/anyte539/public_html/php/Cadastro.php on line 44
+[27-Jan-2016 02:46:44] PHP Warning:  fwrite(): supplied argument is not a valid stream resource in /home/anyte539/public_html/php/Cadastro.php on line 45
+[27-Jan-2016 02:46:44] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/anyte539/public_html/php/Cadastro.php on line 46
+[27-Jan-2016 02:49:59] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: Arquivo existe in /home/anyte539/public_html/php/Cadastro.php on line 39
+[27-Jan-2016 02:49:59] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: Arquivo existe in /home/anyte539/public_html/php/Cadastro.php on line 40
+[27-Jan-2016 02:49:59] PHP Warning:  fopen(../UsuarioTeste/index.php) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: Arquivo ou diretório não encontrado in /home/anyte539/public_html/php/Cadastro.php on line 44
+[27-Jan-2016 02:49:59] PHP Warning:  fwrite(): supplied argument is not a valid stream resource in /home/anyte539/public_html/php/Cadastro.php on line 45
+[27-Jan-2016 02:49:59] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/anyte539/public_html/php/Cadastro.php on line 46
+[27-Jan-2016 02:52:33] PHP Warning:  fopen(../UsuarioTeste/index.php) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: Arquivo ou diretório não encontrado in /home/anyte539/public_html/php/Cadastro.php on line 44
+[27-Jan-2016 02:52:33] PHP Warning:  fwrite(): supplied argument is not a valid stream resource in /home/anyte539/public_html/php/Cadastro.php on line 45
+[27-Jan-2016 02:52:33] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/anyte539/public_html/php/Cadastro.php on line 46
+[23-Feb-2016 15:43:33] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anyte539/public_html/php/EtapaOrcamento.php:34) in /home/anyte539/public_html/php/EtapaOrcamento.php on line 40
+[23-Feb-2016 15:43:33] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anyte539/public_html/php/EtapaOrcamento.php:34) in /home/anyte539/public_html/php/EtapaOrcamento.php on line 44
+[23-Feb-2016 15:43:37] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anyte539/public_html/php/EtapaOrcamento.php:34) in /home/anyte539/public_html/php/EtapaOrcamento.php on line 40
+[23-Feb-2016 15:43:37] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anyte539/public_html/php/EtapaOrcamento.php:34) in /home/anyte539/public_html/php/EtapaOrcamento.php on line 44
+[23-Feb-2016 15:43:37] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anyte539/public_html/php/EtapaOrcamento.php:34) in /home/anyte539/public_html/php/EtapaOrcamento.php on line 40
+[23-Feb-2016 15:43:37] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anyte539/public_html/php/EtapaOrcamento.php:34) in /home/anyte539/public_html/php/EtapaOrcamento.php on line 44
+[02-Mar-2016 17:19:22] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/anyte539/public_html/php/Conexao.php on line 14
+[02-Mar-2016 17:19:22] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/anyte539/public_html/php/Conexao.php on line 14
+[02-Mar-2016 17:20:06] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/anyte539/public_html/php/Conexao.php on line 14
+[02-Mar-2016 17:20:06] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/anyte539/public_html/php/Conexao.php on line 14
+[11-Mar-2016 23:44:41 America/Chicago] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/anyte539/public_html/php/BuscaArtigosFavoritos.php on line 45
+[11-Mar-2016 23:46:02 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home/anyte539/public_html/php/BuscaArtigosFavoritos.php on line 33
+[26-Mar-2016 13:37:54 America/Sao_Paulo] PHP Warning:  include(phpmailer/class.phpmailer.php):  in /home/anyte539/public_html/php/RecuperarSenha.php on line 58
+[26-Mar-2016 13:37:54 America/Sao_Paulo] PHP Warning:  include(phpmailer/class.phpmailer.php):  in /home/anyte539/public_html/php/RecuperarSenha.php on line 58
+[26-Mar-2016 13:37:54 America/Sao_Paulo] PHP Warning:  include(): Failed opening 'phpmailer/class.phpmailer.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/anyte539/public_html/php/RecuperarSenha.php on line 58
+[26-Mar-2016 13:37:54 America/Sao_Paulo] PHP Fatal error:  Class 'PHPMailer' not found in /home/anyte539/public_html/php/RecuperarSenha.php on line 60
+[26-Mar-2016 11:45:51 America/Chicago] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/anyte539/public_html/php/Login.php on line 83
+[26-Mar-2016 11:45:57 America/Chicago] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/anyte539/public_html/php/Login.php on line 83
+[26-Mar-2016 11:46:19 America/Chicago] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/anyte539/public_html/php/Login.php on line 83
+[09-Apr-2016 15:37:53 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/anyte539/public_html/php/Login.php on line 185
+[09-Apr-2016 17:38:31 America/Sao_Paulo] PHP Warning:  include(VOLTARphp/phpmailer/class.phpmailer.php):  in /home/anyte539/public_html/php/Login.php on line 161
+[09-Apr-2016 17:38:31 America/Sao_Paulo] PHP Warning:  include(VOLTARphp/phpmailer/class.phpmailer.php):  in /home/anyte539/public_html/php/Login.php on line 161
+[09-Apr-2016 17:38:31 America/Sao_Paulo] PHP Warning:  include(): Failed opening 'VOLTARphp/phpmailer/class.phpmailer.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/anyte539/public_html/php/Login.php on line 161
+[09-Apr-2016 17:38:31 America/Sao_Paulo] PHP Fatal error:  Class 'PHPMailer' not found in /home/anyte539/public_html/php/Login.php on line 163
+[09-Apr-2016 17:44:52 America/Sao_Paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anyte539/public_html/php/phpmailer/class.phpmailer.php:464) in /home/anyte539/public_html/php/ConfirmacaoEmail.php on line 97
+[16-Jul-2016 12:03:48 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/php/downloadET.php on line 10
+[16-Jul-2016 12:04:50 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/php/downloadET.php on line 10
+[16-Jul-2016 12:07:07 America/Sao_Paulo] PHP Fatal error:  Call to undefined function msqli_error() in /home/anyte539/public_html/php/downloadET.php on line 9
+[16-Jul-2016 12:08:09 America/Sao_Paulo] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/anyte539/public_html/php/downloadET.php on line 9
+[16-Jul-2016 12:09:11 America/Sao_Paulo] PHP Warning:  include(../signup/phpmailer/class.phpmailer.php):  in /home/anyte539/public_html/php/downloadET.php on line 62
+[16-Jul-2016 12:09:11 America/Sao_Paulo] PHP Warning:  include(../signup/phpmailer/class.phpmailer.php):  in /home/anyte539/public_html/php/downloadET.php on line 62
+[16-Jul-2016 12:09:11 America/Sao_Paulo] PHP Warning:  include(): Failed opening '../signup/phpmailer/class.phpmailer.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/anyte539/public_html/php/downloadET.php on line 62
+[16-Jul-2016 12:09:11 America/Sao_Paulo] PHP Fatal error:  Class 'PHPMailer' not found in /home/anyte539/public_html/php/downloadET.php on line 64
+[16-Jul-2016 12:30:07 America/Sao_Paulo] PHP Fatal error:  Cannot redeclare class phpmailerException in /home/anyte539/public_html/php/phpmailer/class.phpmailer.php on line 2319

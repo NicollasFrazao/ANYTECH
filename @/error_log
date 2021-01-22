@@ -1,0 +1,2 @@
+[09-Apr-2016 16:19:01 America/Sao_Paulo] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/anyte539/public_html/php/Conexao.php on line 25
+[24-Apr-2016 17:06:00 America/Sao_Paulo] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/anyte539/public_html/php/Conexao.php on line 25

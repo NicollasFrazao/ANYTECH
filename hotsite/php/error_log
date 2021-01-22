@@ -1,0 +1,21 @@
+[26-Jun-2016 13:55:44 America/Chicago] PHP Warning:  include(../php/conexao.php): failed to open stream: No such file or directory in /home/anyte539/public_html/et/php/emailsender.php on line 2
+[26-Jun-2016 13:55:44 America/Chicago] PHP Warning:  include(../php/conexao.php): failed to open stream: No such file or directory in /home/anyte539/public_html/et/php/emailsender.php on line 2
+[26-Jun-2016 13:55:44 America/Chicago] PHP Warning:  include(): Failed opening '../php/conexao.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/anyte539/public_html/et/php/emailsender.php on line 2
+[26-Jun-2016 13:55:44 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/anyte539/public_html/et/php/emailsender.php on line 6
+[26-Jun-2016 13:55:44 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/anyte539/public_html/et/php/emailsender.php on line 6
+[26-Jun-2016 13:57:26 America/Chicago] PHP Warning:  include(../php/conexao.php): failed to open stream: No such file or directory in /home/anyte539/public_html/et/php/emailsender.php on line 2
+[26-Jun-2016 13:57:26 America/Chicago] PHP Warning:  include(../php/conexao.php): failed to open stream: No such file or directory in /home/anyte539/public_html/et/php/emailsender.php on line 2
+[26-Jun-2016 13:57:26 America/Chicago] PHP Warning:  include(): Failed opening '../php/conexao.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/anyte539/public_html/et/php/emailsender.php on line 2
+[26-Jun-2016 13:57:26 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/anyte539/public_html/et/php/emailsender.php on line 6
+[26-Jun-2016 13:57:26 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/anyte539/public_html/et/php/emailsender.php on line 6
+[26-Jun-2016 13:58:46 America/Chicago] PHP Warning:  include(../../php/conexao.php): failed to open stream: No such file or directory in /home/anyte539/public_html/et/php/emailsender.php on line 2
+[26-Jun-2016 13:58:46 America/Chicago] PHP Warning:  include(../../php/conexao.php): failed to open stream: No such file or directory in /home/anyte539/public_html/et/php/emailsender.php on line 2
+[26-Jun-2016 13:58:46 America/Chicago] PHP Warning:  include(): Failed opening '../../php/conexao.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/anyte539/public_html/et/php/emailsender.php on line 2
+[26-Jun-2016 13:58:46 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/anyte539/public_html/et/php/emailsender.php on line 6
+[26-Jun-2016 13:58:46 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/anyte539/public_html/et/php/emailsender.php on line 6
+[26-Jun-2016 16:00:08 America/Sao_Paulo] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/anyte539/public_html/et/php/emailsender.php on line 6
+[26-Jun-2016 16:00:08 America/Sao_Paulo] PHP Warning:  mysql_query(): A link to the server could not be established in /home/anyte539/public_html/et/php/emailsender.php on line 6
+[26-Jun-2016 16:01:53 America/Sao_Paulo] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/anyte539/public_html/et/php/emailsender.php on line 6
+[26-Jun-2016 16:01:53 America/Sao_Paulo] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/anyte539/public_html/et/php/emailsender.php on line 6
+[26-Jun-2016 16:04:28 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/anyte539/public_html/et/php/emailsender.php on line 6
+[26-Jun-2016 16:05:45 America/Sao_Paulo] PHP Fatal error:  Using $this when not in object context in /home/anyte539/public_html/et/php/emailsender.php on line 6

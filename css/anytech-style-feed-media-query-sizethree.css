@@ -1,0 +1,22 @@
+@media screen and (min-width: 1200px)
+{
+	.anytech-col-one
+	{
+		display: inline-block;	
+		width: 42%;
+	}
+	
+	.anytech-col-two
+	{
+		display: inline-block;	
+		width: 26%;
+	}
+	
+	.anytech-col-three
+	{
+		display: inline-block;	
+		width: 26%;
+		margin-left: 29%;
+	}
+	
+}

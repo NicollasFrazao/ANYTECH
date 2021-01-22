@@ -1,0 +1,14 @@
+User-agent: *
+
+Disallow: /php
+
+Disallow: /login
+
+Disallow: /at-admin
+
+Disallow: /images
+
+Disallow: /artigo/*.txt$
+
+Allow: /artigo
+Sitemap: sitemap.xml

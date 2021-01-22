@@ -1,0 +1,40 @@
+@media screen and (max-width: 600px)
+{
+	.anytech-art-content
+	{
+		width: 90%;
+		margin-left: 0%;
+	}
+	
+	.anytech-art-title
+	{
+		width: 90%;
+		margin-left: 0%;
+		padding-left: 5%;
+		padding-right: 5%;
+	}
+	
+	.anytech-art-author
+	{
+		width: 90%;
+		margin-left: 0%;
+		padding-left: 5%;
+		padding-right: 5%;
+	}
+}
+
+@media screen and (max-width: 900px)
+{
+	.anytech-art-image
+	{
+		background-size: auto 100%;
+		background-position: 50%;
+	}
+	
+	.anytech-post-box
+	{
+		width: 100%;
+		margin: 0px;
+		margin-top: 30px;
+	}
+}

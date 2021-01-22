@@ -1,0 +1,420 @@
+[05-Mar-2016 17:39:41] PHP Warning:  include(php/Conexao.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/anyte539/public_html/news/news.php on line 4
+[05-Mar-2016 17:39:41] PHP Warning:  include(php/Conexao.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/anyte539/public_html/news/news.php on line 4
+[05-Mar-2016 17:39:41] PHP Warning:  include(php/Conexao.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/anyte539/public_html/news/news.php on line 4
+[05-Mar-2016 17:39:41] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'php/Conexao.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/anyte539/public_html/news/news.php on line 4
+[05-Mar-2016 17:39:41] PHP Warning:  include(php/ConexaoPrincipal.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/anyte539/public_html/news/news.php on line 5
+[05-Mar-2016 17:39:41] PHP Warning:  include(php/ConexaoPrincipal.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/anyte539/public_html/news/news.php on line 5
+[05-Mar-2016 17:39:41] PHP Warning:  include(php/ConexaoPrincipal.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/anyte539/public_html/news/news.php on line 5
+[05-Mar-2016 17:39:41] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'php/ConexaoPrincipal.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/anyte539/public_html/news/news.php on line 5
+[05-Mar-2016 17:39:41] PHP Fatal error:  Call to a member function Query() on a non-object in /home/anyte539/public_html/news/news.php on line 357
+[05-Mar-2016 20:40:14] PHP Warning:  include(footer.php) [<a href='function.include'>function.include</a>]: failed to open stream: Arquivo ou diretório não encontrado in /home/anyte539/public_html/news/news.php on line 466
+[05-Mar-2016 20:40:14] PHP Warning:  include(footer.php) [<a href='function.include'>function.include</a>]: failed to open stream: Arquivo ou diretório não encontrado in /home/anyte539/public_html/news/news.php on line 466
+[05-Mar-2016 20:40:14] PHP Warning:  include(footer.php) [<a href='function.include'>function.include</a>]: failed to open stream: Arquivo ou diretório não encontrado in /home/anyte539/public_html/news/news.php on line 466
+[05-Mar-2016 20:40:14] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'footer.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/anyte539/public_html/news/news.php on line 466
+[05-Mar-2016 20:42:27] PHP Warning:  include(footer.php) [<a href='function.include'>function.include</a>]: failed to open stream: Arquivo ou diretório não encontrado in /home/anyte539/public_html/news/news.php on line 466
+[05-Mar-2016 20:42:27] PHP Warning:  include(footer.php) [<a href='function.include'>function.include</a>]: failed to open stream: Arquivo ou diretório não encontrado in /home/anyte539/public_html/news/news.php on line 466
+[05-Mar-2016 20:42:27] PHP Warning:  include(footer.php) [<a href='function.include'>function.include</a>]: failed to open stream: Arquivo ou diretório não encontrado in /home/anyte539/public_html/news/news.php on line 466
+[05-Mar-2016 20:42:27] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'footer.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/anyte539/public_html/news/news.php on line 466
+[09-Mar-2016 20:39:27 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected end of file, expecting ',' or ';' in /home/anyte539/public_html/news/news.php on line 869
+[09-Mar-2016 21:11:20 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/anyte539/public_html/news/news.php on line 108
+[09-Mar-2016 21:38:18 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/anyte539/public_html/news/news.php on line 108
+[09-Mar-2016 21:39:13 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected end of file in /home/anyte539/public_html/news/news.php on line 948
+[10-Mar-2016 21:48:03 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected end of file in /home/anyte539/public_html/news/news.php on line 709
+[10-Mar-2016 21:55:43 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected end of file in /home/anyte539/public_html/news/news.php on line 633
+[11-Mar-2016 20:52:48 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/anyte539/public_html/news/news.php on line 108
+[12-Mar-2016 11:59:04 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/anyte539/public_html/news/news.php on line 746
+[12-Mar-2016 11:59:05 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected '$linha_Artigos' (T_VARIABLE), expecting ',' or ';' in /home/anyte539/public_html/news/news.php on line 1021
+[12-Mar-2016 11:59:07 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected '$linha_Artigos' (T_VARIABLE), expecting ',' or ';' in /home/anyte539/public_html/news/news.php on line 1021
+[12-Mar-2016 12:01:54 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/anyte539/public_html/news/news.php on line 216
+[12-Mar-2016 12:14:04 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected end of file in /home/anyte539/public_html/news/news.php on line 1157
+[12-Mar-2016 12:19:53 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected ''' (T_ENCAPSED_AND_WHITESPACE), expecting ']' in /home/anyte539/public_html/news/news.php on line 808
+[12-Mar-2016 12:26:38 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected end of file in /home/anyte539/public_html/news/news.php on line 1153
+[12-Mar-2016 12:35:16 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/anyte539/public_html/news/news.php on line 216
+[12-Mar-2016 12:41:20 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/anyte539/public_html/news/news.php on line 216
+[16-Mar-2016 13:24:31 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected end of file in /home/anyte539/public_html/news/news.php on line 1214
+[19-Mar-2016 09:57:47 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/anyte539/public_html/news/news.php on line 201
+[19-Mar-2016 10:02:10 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/anyte539/public_html/news/news.php on line 767
+[19-Mar-2016 10:02:59 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/anyte539/public_html/news/news.php on line 153
+[19-Mar-2016 10:07:10 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected end of file in /home/anyte539/public_html/news/news.php on line 1138
+[19-Mar-2016 10:10:12 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/anyte539/public_html/news/news.php on line 108
+[19-Mar-2016 10:13:53 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/anyte539/public_html/news/news.php on line 211
+[19-Mar-2016 10:23:31 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/anyte539/public_html/news/news.php on line 62
+[19-Mar-2016 10:31:14 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected end of file in /home/anyte539/public_html/news/news.php on line 944
+[19-Mar-2016 11:37:48 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected end of file, expecting ']' in /home/anyte539/public_html/news/news.php on line 1054
+[19-Mar-2016 12:17:07 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/anyte539/public_html/news/news.php on line 818
+[19-Mar-2016 12:27:18 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/anyte539/public_html/news/news.php on line 108
+[19-Mar-2016 12:34:22 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected end of file, expecting ']' in /home/anyte539/public_html/news/news.php on line 1272
+[19-Mar-2016 12:34:58 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected end of file, expecting ']' in /home/anyte539/public_html/news/news.php on line 1272
+[19-Mar-2016 12:37:56 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/anyte539/public_html/news/news.php on line 62
+[19-Mar-2016 12:55:44 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/menu.php on line 803
+[19-Mar-2016 12:55:44 America/Sao_Paulo] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/menu.php on line 804
+[19-Mar-2016 12:58:51 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/menu.php on line 803
+[19-Mar-2016 12:58:51 America/Sao_Paulo] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/menu.php on line 804
+[19-Mar-2016 13:00:44 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/menu.php on line 803
+[19-Mar-2016 13:00:44 America/Sao_Paulo] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/menu.php on line 804
+[19-Mar-2016 17:16:10 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/menu.php on line 803
+[19-Mar-2016 17:16:10 America/Sao_Paulo] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/menu.php on line 804
+[19-Mar-2016 17:16:37 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/menu.php on line 803
+[19-Mar-2016 17:16:37 America/Sao_Paulo] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/menu.php on line 804
+[19-Mar-2016 23:55:15 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/anyte539/public_html/news/news.php on line 203
+[20-Mar-2016 11:13:19 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/anyte539/public_html/news/news.php on line 110
+[20-Mar-2016 11:34:33 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/anyte539/public_html/news/news.php on line 110
+[21-Mar-2016 12:56:43 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/menu.php on line 803
+[21-Mar-2016 12:56:43 America/Sao_Paulo] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/menu.php on line 804
+[21-Mar-2016 12:56:49 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/menu.php on line 803
+[21-Mar-2016 12:56:49 America/Sao_Paulo] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/menu.php on line 804
+[21-Mar-2016 22:28:55 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/menu.php on line 803
+[21-Mar-2016 22:28:55 America/Sao_Paulo] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/menu.php on line 804
+[21-Mar-2016 22:29:47 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/menu.php on line 803
+[21-Mar-2016 22:29:47 America/Sao_Paulo] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/menu.php on line 804
+[21-Mar-2016 22:29:52 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/menu.php on line 803
+[21-Mar-2016 22:29:52 America/Sao_Paulo] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/menu.php on line 804
+[21-Mar-2016 22:30:47 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/menu.php on line 803
+[21-Mar-2016 22:30:47 America/Sao_Paulo] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/menu.php on line 804
+[21-Mar-2016 22:33:21 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/menu.php on line 803
+[21-Mar-2016 22:33:21 America/Sao_Paulo] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/menu.php on line 804
+[21-Mar-2016 22:35:02 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/menu.php on line 803
+[21-Mar-2016 22:35:02 America/Sao_Paulo] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/menu.php on line 804
+[21-Mar-2016 22:38:49 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/menu.php on line 803
+[21-Mar-2016 22:38:49 America/Sao_Paulo] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/menu.php on line 804
+[21-Mar-2016 22:39:28 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/menu.php on line 803
+[21-Mar-2016 22:39:28 America/Sao_Paulo] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/menu.php on line 804
+[21-Mar-2016 22:40:22 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/menu.php on line 803
+[21-Mar-2016 22:40:22 America/Sao_Paulo] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/menu.php on line 804
+[21-Mar-2016 22:58:03 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/menu.php on line 803
+[21-Mar-2016 22:58:03 America/Sao_Paulo] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/menu.php on line 804
+[21-Mar-2016 22:59:41 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/menu.php on line 803
+[21-Mar-2016 22:59:41 America/Sao_Paulo] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/menu.php on line 804
+[22-Mar-2016 10:36:27 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/menu.php on line 803
+[22-Mar-2016 10:36:27 America/Sao_Paulo] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/menu.php on line 804
+[22-Mar-2016 14:37:46 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/menu.php on line 803
+[22-Mar-2016 14:37:46 America/Sao_Paulo] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/menu.php on line 804
+[22-Mar-2016 22:40:27 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/menu.php on line 803
+[22-Mar-2016 22:40:27 America/Sao_Paulo] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/menu.php on line 804
+[25-Mar-2016 00:16:45 America/Sao_Paulo] PHP Warning:  Unterminated comment starting line 72 in /home/anyte539/public_html/news/news.php on line 72
+[25-Mar-2016 00:16:45 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected ',' in /home/anyte539/public_html/news/news.php on line 73
+[25-Mar-2016 12:09:12 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected ''cd_artig' (T_ENCAPSED_AND_WHITESPACE), expecting ']' in /home/anyte539/public_html/news/news.php on line 1352
+[25-Mar-2016 12:12:58 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected end of file in /home/anyte539/public_html/news/news.php on line 1015
+[25-Mar-2016 12:16:30 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/anyte539/public_html/news/news.php on line 919
+[25-Mar-2016 14:03:35 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/anyte539/public_html/news/news.php on line 110
+[25-Mar-2016 14:28:34 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/anyte539/public_html/news/news.php on line 63
+[25-Mar-2016 15:45:26 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/anyte539/public_html/news/news.php on line 843
+[25-Mar-2016 15:49:26 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected end of file in /home/anyte539/public_html/news/news.php on line 1520
+[25-Mar-2016 16:03:13 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected ')', expecting ']' in /home/anyte539/public_html/news/news.php on line 991
+[25-Mar-2016 16:03:15 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected ')', expecting ']' in /home/anyte539/public_html/news/news.php on line 991
+[25-Mar-2016 16:03:16 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected ')', expecting ']' in /home/anyte539/public_html/news/news.php on line 991
+[25-Mar-2016 16:03:58 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/anyte539/public_html/news/news.php on line 991
+[25-Mar-2016 16:03:59 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/anyte539/public_html/news/news.php on line 991
+[25-Mar-2016 16:04:06 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/anyte539/public_html/news/news.php on line 991
+[25-Mar-2016 16:09:07 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/anyte539/public_html/news/news.php on line 858
+[25-Mar-2016 16:09:08 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected end of file in /home/anyte539/public_html/news/news.php on line 1390
+[25-Mar-2016 16:09:29 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected end of file in /home/anyte539/public_html/news/news.php on line 199
+[25-Mar-2016 16:16:31 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/anyte539/public_html/news/news.php on line 106
+[25-Mar-2016 16:40:45 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/anyte539/public_html/news/news.php on line 106
+[25-Mar-2016 16:58:42 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/anyte539/public_html/news/news.php on line 854
+[25-Mar-2016 16:58:44 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected end of file in /home/anyte539/public_html/news/news.php on line 1177
+[25-Mar-2016 17:11:16 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected end of file in /home/anyte539/public_html/news/news.php on line 1553
+[25-Mar-2016 17:13:33 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/anyte539/public_html/news/news.php on line 106
+[26-Mar-2016 19:28:27 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/anyte539/public_html/news/news.php on line 63
+[26-Mar-2016 19:37:35 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/anyte539/public_html/news/news.php on line 106
+[27-Mar-2016 17:08:23 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/anyte539/public_html/news/news.php on line 221
+[29-Mar-2016 00:46:01 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/anyte539/public_html/news/news.php on line 938
+[29-Mar-2016 20:38:52 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected '{' in /home/anyte539/public_html/news/news.php on line 539
+[29-Mar-2016 20:38:54 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected '{' in /home/anyte539/public_html/news/news.php on line 539
+[29-Mar-2016 20:38:56 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected '{' in /home/anyte539/public_html/news/news.php on line 539
+[29-Mar-2016 20:57:38 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/anyte539/public_html/news/news.php on line 63
+[29-Mar-2016 20:58:48 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/anyte539/public_html/news/news.php on line 106
+[29-Mar-2016 20:58:49 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected ''cd_' (T_ENCAPSED_AND_WHITESPACE), expecting ']' in /home/anyte539/public_html/news/news.php on line 1025
+[29-Mar-2016 21:23:05 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/anyte539/public_html/news/news.php on line 884
+[30-Mar-2016 22:10:55 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/anyte539/public_html/news/news.php on line 63
+[30-Mar-2016 22:22:20 America/Sao_Paulo] PHP Warning:  Unterminated comment starting line 170 in /home/anyte539/public_html/news/news.php on line 170
+[30-Mar-2016 22:22:20 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected end of file in /home/anyte539/public_html/news/news.php on line 197
+[30-Mar-2016 22:23:26 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected end of file in /home/anyte539/public_html/news/news.php on line 995
+[03-Apr-2016 14:58:43 America/Sao_Paulo] PHP Warning:  Unterminated comment starting line 73 in /home/anyte539/public_html/news/news.php on line 73
+[03-Apr-2016 14:58:43 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected end of file in /home/anyte539/public_html/news/news.php on line 87
+[03-Apr-2016 14:58:44 America/Sao_Paulo] PHP Warning:  Unterminated comment starting line 73 in /home/anyte539/public_html/news/news.php on line 73
+[03-Apr-2016 14:58:44 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected end of file in /home/anyte539/public_html/news/news.php on line 87
+[03-Apr-2016 14:58:45 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected ''Escreva algo sobre' (T_ENCAPSED_AND_WHITESPACE) in /home/anyte539/public_html/news/news.php on line 528
+[03-Apr-2016 15:01:27 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/anyte539/public_html/news/news.php on line 234
+[03-Apr-2016 15:01:30 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/anyte539/public_html/news/news.php on line 234
+[03-Apr-2016 15:01:32 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/anyte539/public_html/news/news.php on line 234
+[03-Apr-2016 15:12:40 America/Sao_Paulo] PHP Fatal error:  Call to undefined function parseInt() in /home/anyte539/public_html/news/news.php on line 236
+[03-Apr-2016 15:12:42 America/Sao_Paulo] PHP Fatal error:  Call to undefined function parseInt() in /home/anyte539/public_html/news/news.php on line 236
+[03-Apr-2016 15:12:55 America/Sao_Paulo] PHP Fatal error:  Call to undefined function integer() in /home/anyte539/public_html/news/news.php on line 236
+[03-Apr-2016 15:12:55 America/Sao_Paulo] PHP Fatal error:  Call to undefined function integer() in /home/anyte539/public_html/news/news.php on line 236
+[03-Apr-2016 15:16:17 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/anyte539/public_html/news/news.php on line 860
+[03-Apr-2016 15:24:26 America/Sao_Paulo] PHP Warning:  Unterminated comment starting line 170 in /home/anyte539/public_html/news/news.php on line 170
+[03-Apr-2016 15:24:26 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected end of file in /home/anyte539/public_html/news/news.php on line 197
+[03-Apr-2016 15:25:07 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected '?>' in /home/anyte539/public_html/news/news.php on line 237
+[03-Apr-2016 15:25:08 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected '?>' in /home/anyte539/public_html/news/news.php on line 237
+[03-Apr-2016 15:25:09 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected '?>' in /home/anyte539/public_html/news/news.php on line 237
+[03-Apr-2016 15:28:26 America/Sao_Paulo] PHP Warning:  Unterminated comment starting line 170 in /home/anyte539/public_html/news/news.php on line 170
+[03-Apr-2016 15:28:26 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected end of file in /home/anyte539/public_html/news/news.php on line 197
+[03-Apr-2016 15:28:52 America/Sao_Paulo] PHP Fatal error:  Call to undefined function integer() in /home/anyte539/public_html/news/news.php on line 234
+[03-Apr-2016 15:29:20 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected end of file in /home/anyte539/public_html/news/news.php on line 1447
+[03-Apr-2016 15:32:50 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected '=' in /home/anyte539/public_html/news/news.php on line 236
+[03-Apr-2016 15:32:52 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected '=' in /home/anyte539/public_html/news/news.php on line 236
+[03-Apr-2016 15:32:52 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected '=' in /home/anyte539/public_html/news/news.php on line 236
+[03-Apr-2016 15:32:53 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected '=' in /home/anyte539/public_html/news/news.php on line 236
+[03-Apr-2016 15:57:06 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected '<' in /home/anyte539/public_html/news/news.php(247) : eval()'d code on line 1
+[03-Apr-2016 15:58:07 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected '<' in /home/anyte539/public_html/news/news.php(247) : eval()'d code on line 1
+[03-Apr-2016 16:02:20 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/anyte539/public_html/news/news.php on line 248
+[03-Apr-2016 16:02:23 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/anyte539/public_html/news/news.php on line 248
+[03-Apr-2016 16:02:24 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/anyte539/public_html/news/news.php on line 248
+[03-Apr-2016 16:02:32 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/anyte539/public_html/news/news.php on line 248
+[03-Apr-2016 16:02:37 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected ''cd' (T_ENCAPSED_AND_WHITESPACE), expecting ']' in /home/anyte539/public_html/news/news.php on line 1059
+[03-Apr-2016 17:45:18 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/anyte539/public_html/news/news.php on line 214
+[21-Apr-2016 11:00:07 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/menu.php on line 803
+[21-Apr-2016 11:00:07 America/Sao_Paulo] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/menu.php on line 804
+[21-Apr-2016 11:03:36 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/menu.php on line 803
+[21-Apr-2016 11:03:36 America/Sao_Paulo] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/menu.php on line 804
+[21-Apr-2016 11:12:50 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/menu.php on line 803
+[21-Apr-2016 11:12:50 America/Sao_Paulo] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/menu.php on line 804
+[21-Apr-2016 11:12:51 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/menu.php on line 803
+[21-Apr-2016 11:12:51 America/Sao_Paulo] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/menu.php on line 804
+[21-Apr-2016 11:13:08 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/menu.php on line 803
+[21-Apr-2016 11:13:08 America/Sao_Paulo] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/menu.php on line 804
+[21-Apr-2016 11:13:10 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/menu.php on line 803
+[21-Apr-2016 11:13:10 America/Sao_Paulo] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/menu.php on line 804
+[21-Apr-2016 11:13:18 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/menu.php on line 803
+[21-Apr-2016 11:13:18 America/Sao_Paulo] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/menu.php on line 804
+[21-Apr-2016 11:13:20 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/menu.php on line 803
+[21-Apr-2016 11:13:20 America/Sao_Paulo] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/menu.php on line 804
+[21-Apr-2016 11:13:23 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/menu.php on line 803
+[21-Apr-2016 11:13:23 America/Sao_Paulo] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/menu.php on line 804
+[21-Apr-2016 11:13:25 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/menu.php on line 803
+[21-Apr-2016 11:13:25 America/Sao_Paulo] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/menu.php on line 804
+[21-Apr-2016 11:13:29 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/menu.php on line 803
+[21-Apr-2016 11:13:29 America/Sao_Paulo] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/menu.php on line 804
+[21-Apr-2016 11:17:14 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/menu.php on line 803
+[21-Apr-2016 11:17:14 America/Sao_Paulo] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/menu.php on line 804
+[21-Apr-2016 11:28:40 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/menu.php on line 803
+[21-Apr-2016 11:28:40 America/Sao_Paulo] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/menu.php on line 804
+[21-Apr-2016 11:30:42 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/menu.php on line 803
+[21-Apr-2016 11:30:42 America/Sao_Paulo] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/menu.php on line 804
+[21-Apr-2016 11:30:45 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/menu.php on line 803
+[21-Apr-2016 11:30:45 America/Sao_Paulo] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/menu.php on line 804
+[21-Apr-2016 11:53:32 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/menu.php on line 803
+[21-Apr-2016 11:53:32 America/Sao_Paulo] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/menu.php on line 804
+[21-Apr-2016 13:26:32 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/menu.php on line 803
+[21-Apr-2016 13:26:32 America/Sao_Paulo] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/menu.php on line 804
+[21-Apr-2016 13:27:08 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/menu.php on line 803
+[21-Apr-2016 13:27:08 America/Sao_Paulo] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/menu.php on line 804
+[21-Apr-2016 13:27:23 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/menu.php on line 803
+[21-Apr-2016 13:27:23 America/Sao_Paulo] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/menu.php on line 804
+[21-Apr-2016 13:27:43 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/menu.php on line 803
+[21-Apr-2016 13:27:43 America/Sao_Paulo] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/menu.php on line 804
+[21-Apr-2016 13:36:13 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/menu.php on line 803
+[21-Apr-2016 13:36:13 America/Sao_Paulo] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/menu.php on line 804
+[21-Apr-2016 13:42:17 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/menu.php on line 803
+[21-Apr-2016 13:42:17 America/Sao_Paulo] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/menu.php on line 804
+[21-Apr-2016 13:44:10 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/menu.php on line 803
+[21-Apr-2016 13:44:10 America/Sao_Paulo] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/menu.php on line 804
+[21-Apr-2016 13:45:34 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/menu.php on line 803
+[21-Apr-2016 13:45:34 America/Sao_Paulo] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/menu.php on line 804
+[21-Apr-2016 13:48:45 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/menu.php on line 803
+[21-Apr-2016 13:48:45 America/Sao_Paulo] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/menu.php on line 804
+[21-Apr-2016 14:01:26 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/menu.php on line 803
+[21-Apr-2016 14:01:26 America/Sao_Paulo] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/menu.php on line 804
+[21-Apr-2016 14:03:05 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/menu.php on line 803
+[21-Apr-2016 14:03:05 America/Sao_Paulo] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/menu.php on line 804
+[21-Apr-2016 14:22:19 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/menu.php on line 803
+[21-Apr-2016 14:22:19 America/Sao_Paulo] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/menu.php on line 804
+[21-Apr-2016 14:25:04 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/menu.php on line 803
+[21-Apr-2016 14:25:04 America/Sao_Paulo] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/menu.php on line 804
+[21-Apr-2016 14:26:42 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/menu.php on line 803
+[21-Apr-2016 14:26:42 America/Sao_Paulo] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/menu.php on line 804
+[21-Apr-2016 14:57:46 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/menu.php on line 803
+[21-Apr-2016 14:57:46 America/Sao_Paulo] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/menu.php on line 804
+[21-Apr-2016 16:05:16 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/menu.php on line 803
+[21-Apr-2016 16:05:16 America/Sao_Paulo] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/menu.php on line 804
+[21-Apr-2016 16:08:09 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/menu.php on line 803
+[21-Apr-2016 16:08:09 America/Sao_Paulo] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/menu.php on line 804
+[21-Apr-2016 17:01:10 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/menu.php on line 803
+[21-Apr-2016 17:01:10 America/Sao_Paulo] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/menu.php on line 804
+[21-Apr-2016 17:17:38 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/menu.php on line 803
+[21-Apr-2016 17:17:38 America/Sao_Paulo] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/menu.php on line 804
+[21-Apr-2016 17:19:34 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/menu.php on line 803
+[21-Apr-2016 17:19:34 America/Sao_Paulo] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/menu.php on line 804
+[21-Apr-2016 17:25:50 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/menu.php on line 803
+[21-Apr-2016 17:25:50 America/Sao_Paulo] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/menu.php on line 804
+[21-Apr-2016 17:37:45 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/menu.php on line 803
+[21-Apr-2016 17:37:45 America/Sao_Paulo] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/menu.php on line 804
+[22-Apr-2016 11:16:39 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/menu.php on line 803
+[22-Apr-2016 11:16:39 America/Sao_Paulo] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/menu.php on line 804
+[22-Apr-2016 11:25:19 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/menu.php on line 803
+[22-Apr-2016 11:25:19 America/Sao_Paulo] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/menu.php on line 804
+[23-Apr-2016 15:08:07 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/news/news.php on line 1075
+[23-Apr-2016 15:08:07 America/Sao_Paulo] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/news/news.php on line 1076
+[23-Apr-2016 15:08:07 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/news/news.php on line 1220
+[23-Apr-2016 15:08:07 America/Sao_Paulo] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/news/news.php on line 1221
+[23-Apr-2016 15:08:07 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/news/news.php on line 1466
+[23-Apr-2016 15:08:07 America/Sao_Paulo] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/news/news.php on line 1467
+[23-Apr-2016 15:08:13 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/news/news.php on line 1075
+[23-Apr-2016 15:08:13 America/Sao_Paulo] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/news/news.php on line 1076
+[23-Apr-2016 15:08:13 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/news/news.php on line 1220
+[23-Apr-2016 15:08:13 America/Sao_Paulo] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/news/news.php on line 1221
+[23-Apr-2016 15:08:13 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/news/news.php on line 1466
+[23-Apr-2016 15:08:13 America/Sao_Paulo] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/news/news.php on line 1467
+[24-Apr-2016 17:20:32 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/anyte539/public_html/news/news.php on line 1113
+[26-Apr-2016 21:57:18 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/menu.php on line 803
+[26-Apr-2016 21:57:18 America/Sao_Paulo] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/menu.php on line 804
+[26-Apr-2016 21:57:55 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/menu.php on line 803
+[26-Apr-2016 21:57:55 America/Sao_Paulo] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/menu.php on line 804
+[26-Apr-2016 21:58:06 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/menu.php on line 803
+[26-Apr-2016 21:58:06 America/Sao_Paulo] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/menu.php on line 804
+[26-Apr-2016 21:59:18 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/menu.php on line 803
+[26-Apr-2016 21:59:18 America/Sao_Paulo] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/menu.php on line 804
+[27-Apr-2016 21:35:22 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/menu.php on line 803
+[27-Apr-2016 21:35:22 America/Sao_Paulo] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/menu.php on line 804
+[03-May-2016 21:23:07 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/menu.php on line 803
+[03-May-2016 21:23:07 America/Sao_Paulo] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/menu.php on line 804
+[03-May-2016 22:13:41 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/menu.php on line 803
+[03-May-2016 22:13:41 America/Sao_Paulo] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/menu.php on line 804
+[04-May-2016 18:01:51 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/menu.php on line 803
+[04-May-2016 18:01:51 America/Sao_Paulo] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/menu.php on line 804
+[04-May-2016 18:02:46 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/menu.php on line 803
+[04-May-2016 18:02:46 America/Sao_Paulo] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/menu.php on line 804
+[04-May-2016 18:03:31 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/menu.php on line 803
+[04-May-2016 18:03:31 America/Sao_Paulo] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/menu.php on line 804
+[04-May-2016 18:04:30 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/menu.php on line 803
+[04-May-2016 18:04:30 America/Sao_Paulo] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/menu.php on line 804
+[05-May-2016 21:55:30 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/menu.php on line 803
+[05-May-2016 21:55:30 America/Sao_Paulo] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/menu.php on line 804
+[05-May-2016 23:17:21 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/menu.php on line 803
+[05-May-2016 23:17:21 America/Sao_Paulo] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/menu.php on line 804
+[05-May-2016 23:19:34 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/menu.php on line 803
+[05-May-2016 23:19:34 America/Sao_Paulo] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/menu.php on line 804
+[07-May-2016 17:08:59 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected end of file in /home/anyte539/public_html/news/news.php on line 1426
+[09-May-2016 22:12:59 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/menu.php on line 803
+[09-May-2016 22:12:59 America/Sao_Paulo] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/menu.php on line 804
+[09-May-2016 23:10:15 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/menu.php on line 803
+[09-May-2016 23:10:15 America/Sao_Paulo] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/menu.php on line 804
+[09-May-2016 23:10:44 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/menu.php on line 803
+[09-May-2016 23:10:44 America/Sao_Paulo] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/menu.php on line 804
+[10-May-2016 20:47:34 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected ')' in /home/anyte539/public_html/news/news.php on line 1175
+[10-May-2016 20:47:36 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected ')' in /home/anyte539/public_html/news/news.php on line 1175
+[11-May-2016 21:27:02 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/menu.php on line 803
+[11-May-2016 21:27:02 America/Sao_Paulo] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/menu.php on line 804
+[16-May-2016 10:22:02 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/menu.php on line 803
+[16-May-2016 10:22:02 America/Sao_Paulo] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/menu.php on line 804
+[16-May-2016 11:33:31 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/menu.php on line 803
+[16-May-2016 11:33:31 America/Sao_Paulo] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/menu.php on line 804
+[16-May-2016 12:19:06 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/menu.php on line 803
+[16-May-2016 12:19:06 America/Sao_Paulo] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/menu.php on line 804
+[16-May-2016 12:19:19 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/menu.php on line 803
+[16-May-2016 12:19:19 America/Sao_Paulo] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/menu.php on line 804
+[16-May-2016 13:49:00 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/menu.php on line 803
+[16-May-2016 13:49:00 America/Sao_Paulo] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/menu.php on line 804
+[16-May-2016 13:49:03 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/menu.php on line 803
+[16-May-2016 13:49:03 America/Sao_Paulo] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/menu.php on line 804
+[16-May-2016 20:12:43 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/menu.php on line 803
+[16-May-2016 20:12:43 America/Sao_Paulo] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/menu.php on line 804
+[17-May-2016 20:17:00 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/menu.php on line 803
+[17-May-2016 20:17:00 America/Sao_Paulo] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/menu.php on line 804
+[17-May-2016 20:37:06 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/menu.php on line 803
+[17-May-2016 20:37:06 America/Sao_Paulo] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/menu.php on line 804
+[17-May-2016 20:40:46 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/menu.php on line 803
+[17-May-2016 20:40:46 America/Sao_Paulo] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/menu.php on line 804
+[18-May-2016 20:50:29 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/menu.php on line 803
+[18-May-2016 20:50:29 America/Sao_Paulo] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/menu.php on line 804
+[18-May-2016 20:52:21 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/menu.php on line 803
+[18-May-2016 20:52:21 America/Sao_Paulo] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/menu.php on line 804
+[18-May-2016 20:52:53 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/menu.php on line 803
+[18-May-2016 20:52:53 America/Sao_Paulo] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/menu.php on line 804
+[18-May-2016 21:37:03 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/menu.php on line 803
+[18-May-2016 21:37:03 America/Sao_Paulo] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/menu.php on line 804
+[18-May-2016 21:37:16 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/menu.php on line 803
+[18-May-2016 21:37:16 America/Sao_Paulo] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/menu.php on line 804
+[18-May-2016 21:55:23 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/menu.php on line 803
+[18-May-2016 21:55:23 America/Sao_Paulo] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/menu.php on line 804
+[18-May-2016 21:56:19 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/menu.php on line 803
+[18-May-2016 21:56:19 America/Sao_Paulo] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/menu.php on line 804
+[19-May-2016 00:19:39 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/menu.php on line 803
+[19-May-2016 00:19:39 America/Sao_Paulo] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/menu.php on line 804
+[19-May-2016 00:20:05 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/menu.php on line 803
+[19-May-2016 00:20:05 America/Sao_Paulo] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/menu.php on line 804
+[19-May-2016 12:12:33 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/menu.php on line 803
+[19-May-2016 12:12:33 America/Sao_Paulo] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/menu.php on line 804
+[27-May-2016 11:50:16 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/menu.php on line 803
+[27-May-2016 11:50:16 America/Sao_Paulo] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/menu.php on line 804
+[27-May-2016 12:46:48 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/menu.php on line 803
+[27-May-2016 12:46:48 America/Sao_Paulo] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/menu.php on line 804
+[04-Jun-2016 12:35:57 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/menu.php on line 803
+[04-Jun-2016 12:35:57 America/Sao_Paulo] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/menu.php on line 804
+[04-Jun-2016 14:04:36 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/menu.php on line 803
+[04-Jun-2016 14:04:36 America/Sao_Paulo] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/menu.php on line 804
+[04-Jun-2016 14:28:56 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/menu.php on line 803
+[04-Jun-2016 14:28:56 America/Sao_Paulo] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/menu.php on line 804
+[17-Jun-2016 21:49:44 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/menu.php on line 803
+[17-Jun-2016 21:49:44 America/Sao_Paulo] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/menu.php on line 804
+[17-Jun-2016 21:50:31 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/menu.php on line 803
+[17-Jun-2016 21:50:31 America/Sao_Paulo] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/menu.php on line 804
+[17-Jun-2016 23:03:18 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/menu.php on line 803
+[17-Jun-2016 23:03:18 America/Sao_Paulo] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/menu.php on line 804
+[20-Jun-2016 13:45:55 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/menu.php on line 803
+[20-Jun-2016 13:45:55 America/Sao_Paulo] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/menu.php on line 804
+[30-Jun-2016 13:20:42 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/menu.php on line 803
+[30-Jun-2016 13:20:42 America/Sao_Paulo] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/menu.php on line 804
+[30-Jun-2016 13:21:07 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/menu.php on line 803
+[30-Jun-2016 13:21:07 America/Sao_Paulo] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/menu.php on line 804
+[30-Jun-2016 13:37:33 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/menu.php on line 803
+[30-Jun-2016 13:37:33 America/Sao_Paulo] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/menu.php on line 804
+[07-Jul-2016 18:58:03 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/menu.php on line 803
+[07-Jul-2016 18:58:03 America/Sao_Paulo] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/menu.php on line 804
+[07-Jul-2016 18:58:24 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/menu.php on line 803
+[07-Jul-2016 18:58:24 America/Sao_Paulo] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/menu.php on line 804
+[07-Jul-2016 18:58:52 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/menu.php on line 803
+[07-Jul-2016 18:58:52 America/Sao_Paulo] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/menu.php on line 804
+[07-Jul-2016 18:58:57 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/menu.php on line 803
+[07-Jul-2016 18:58:57 America/Sao_Paulo] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/menu.php on line 804
+[07-Jul-2016 18:59:07 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/menu.php on line 803
+[07-Jul-2016 18:59:07 America/Sao_Paulo] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/menu.php on line 804
+[07-Jul-2016 19:00:10 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/menu.php on line 803
+[07-Jul-2016 19:00:10 America/Sao_Paulo] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/menu.php on line 804
+[08-Jul-2016 11:59:25 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/menu.php on line 803
+[08-Jul-2016 11:59:25 America/Sao_Paulo] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/menu.php on line 804
+[08-Jul-2016 12:51:34 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/menu.php on line 803
+[08-Jul-2016 12:51:34 America/Sao_Paulo] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/menu.php on line 804
+[08-Jul-2016 13:17:01 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/menu.php on line 803
+[08-Jul-2016 13:17:01 America/Sao_Paulo] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/menu.php on line 804
+[08-Jul-2016 13:17:14 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/menu.php on line 803
+[08-Jul-2016 13:17:14 America/Sao_Paulo] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/menu.php on line 804
+[08-Jul-2016 13:18:09 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/menu.php on line 803
+[08-Jul-2016 13:18:09 America/Sao_Paulo] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/menu.php on line 804
+[08-Jul-2016 13:18:42 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/menu.php on line 803
+[08-Jul-2016 13:18:42 America/Sao_Paulo] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/menu.php on line 804
+[08-Jul-2016 13:18:50 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/menu.php on line 803
+[08-Jul-2016 13:18:50 America/Sao_Paulo] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/menu.php on line 804
+[08-Jul-2016 13:18:55 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/menu.php on line 803
+[08-Jul-2016 13:18:55 America/Sao_Paulo] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/menu.php on line 804
+[08-Jul-2016 13:19:01 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/menu.php on line 803
+[08-Jul-2016 13:19:01 America/Sao_Paulo] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/menu.php on line 804
+[08-Jul-2016 13:19:14 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/menu.php on line 803
+[08-Jul-2016 13:19:14 America/Sao_Paulo] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/menu.php on line 804
+[08-Jul-2016 13:20:13 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/menu.php on line 803
+[08-Jul-2016 13:20:13 America/Sao_Paulo] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/menu.php on line 804
+[08-Jul-2016 13:47:15 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/menu.php on line 803
+[08-Jul-2016 13:47:15 America/Sao_Paulo] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/menu.php on line 804
+[08-Jul-2016 13:51:49 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/menu.php on line 803
+[08-Jul-2016 13:51:49 America/Sao_Paulo] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/menu.php on line 804
+[08-Jul-2016 16:46:48 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/menu.php on line 803
+[08-Jul-2016 16:46:48 America/Sao_Paulo] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/menu.php on line 804
+[12-Aug-2016 11:16:03 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/menu.php on line 803
+[12-Aug-2016 11:16:03 America/Sao_Paulo] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/menu.php on line 804
+[12-Aug-2016 11:18:42 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/menu.php on line 803
+[12-Aug-2016 11:18:42 America/Sao_Paulo] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/menu.php on line 804
+[19-Sep-2016 16:54:09 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/menu.php on line 803
+[19-Sep-2016 16:54:09 America/Sao_Paulo] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/menu.php on line 804
+[19-Sep-2016 16:54:23 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/menu.php on line 803
+[19-Sep-2016 16:54:23 America/Sao_Paulo] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/menu.php on line 804
+[19-Sep-2016 16:55:25 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/menu.php on line 803
+[19-Sep-2016 16:55:25 America/Sao_Paulo] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/menu.php on line 804
+[22-Nov-2016 12:58:02 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/menu.php on line 803
+[22-Nov-2016 12:58:02 America/Sao_Paulo] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/menu.php on line 804
+[22-Nov-2016 12:59:26 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/menu.php on line 803
+[22-Nov-2016 12:59:26 America/Sao_Paulo] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/menu.php on line 804
+[27-Jul-2017 18:27:27 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/footer.php on line 17
+[27-Jul-2017 18:27:27 America/Sao_Paulo] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/footer.php on line 18
+[27-Jul-2017 18:27:27 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/footer.php on line 21
+[27-Jul-2017 18:27:27 America/Sao_Paulo] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/anyte539/public_html/footer.php on line 22
